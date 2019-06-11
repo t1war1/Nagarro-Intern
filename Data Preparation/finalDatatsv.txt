@@ -1,0 +1,2350 @@
+Description	Label
+"- Understand Modelling Concepts;
+- Develop critical framework components/reusable modules;
+- Establish, maintain and adhere to set of development standards and
+patterns;
+- Document technical findings/decisions and make technical
+presentations;
+- Maintain, improve and optimize Lycos internal software development
+process."	Architect
+"•	RFB Response and Solutioning for customers requesting for IoT based solutions
+•	Develop POCs using the IBM IoT Foundation, IBM BlueMix, Raspberry Pi
+•	Vendor Analysis of IoT Platforms – ThingWorx, CloudPlugs
+•	Program Management and Planning for the Automation Program.
+•	Vendor Analysis of Robotic Process Automation Tools. 
+•	Knowledge Items creation on Arago Autopilot for RPA in Application Management space. 
+•	Requirement Gathering, Analysis for implementation of RPA within CSC accounts
+•	Single handedly developed a Crowdsourcing Platform in Java/J2EE and deployment of the same on AWS Elastic BeanStalk, SSO/Federation using SAML2 Assertion. 
+"	Manager
+"- Create designs for (complex) analog and mixed-signal circuitry;
+- Contribute in realizing analog systems from the design track till the
+realization on board-level;
+- Execute the validation and define the qualification of the hardware;
+- Characterize, model and optimize analog circuits and building blocks
+in existing CMOS technologies;
+- Mentor junior engineers and help develop their skills;
+- Lead contact in the communication."	Technical Lead
+"Specific tasks and key responsibilities include
+but are not limited to:
+- Design and implement RDBMS schemas and data access components;
+- Design and fine-tune the physical data model for an application;
+- Create the physical databases for an application;
+- Design and code software components for web applications;
+- Troubleshoot and fine-tune databases performance in production to
+ensure maximum performance;
+- Develop integration, replication and backup/ restoration strategies;
+- Interact with technical managers to facilitate the smooth flow of all
+technical information."	Architect
+"Database administration, installation, backup
+administration, optimization in Informix and Oracle Database, Unix
+systems."	Database Administrator
+"- Software development according to requirements;
+- Take part in gathering requirements;
+- Take part in system architecture development;
+- Participate in planning;
+- Complete work according to deadlines;
+- Take part in mentoring other developers professional skills."	Architect
+"- Configure, maintain, and install new workstations, laptops, and
+servers 
+- Troubleshoot system and network related problems 
+- Support internal users, systems, software, and hardware 
+- Administer NT \ Windows 2000 Systems 
+- Develop and maintain Backup and Disaster Recovery Strategy 
+- Purchase new equipment and software 
+- Maintain software and hardware inventory 
+- Administer and maintain phone system 
+- Design and develop the Web site 
+- Training and teaching the students of Microsoft Office software"	Software Engineer
+"- Gather and produce requirements and designs;
+- Write and test code for the required product;
+- Plan software development activities and follow established processes
+accurately;
+- Share knowledge, mentor peers, listen and hear team members positions
+and provide a fair evaluation of different opinions;
+- Assign build master from development team members;
+- Prepare the build status report;
+- Communicate with management and team members effectively;
+- Keep commitments;
+- Participate in discussions regarding technical issues;
+- Work as part of a software development team."	Technical Lead
+"- Develop critical framework components/reusable modules;
+- Establish, maintain and adhere to set of development standards and
+patterns;
+- Document technical findings/decisions and make technical
+presentations;
+- Maintain, improve and optimize Lycos internal software development
+process."	Architect
+"- Prepare project schedule, define development, testing and documentation
+activities;
+- Estimate technical challenges, development time-line and risks;
+- Collaborate with team members on gathering project requirements, design
+interface and functionality and producing written requirements
+description document, software specifications and testing plan;
+- Lead the software development, testing and documentation activities
+according to project requirements and guidelines;
+- Release and deploy the project, provide post-release and maintenance
+support, including improvements identification, bug reporting/ fixing and
+communication;
+- Communicate with top management and customer and organize meetings and
+conference calls per need."	Technical Lead
+"Specific tasks and key responsibilities include
+but are not limited to:
+- Translate design requirements and specifications into robust
+implementations;
+- Design, proto-type, develop and manage the technical aspects of the
+software;
+- Perform implementations in a timely fashion;
+- Perform quality assurance tasks, such as testing of the software
+products."	Software Engineer
+"- Software quality assurance (SQA) of Inegrated Circtuits design;
+- Software quality testing with some guidance from senior level managers
+and other engineers."	Quality Assurance
+"- Provide technical leadership and drive the architecture and design
+solution to to meet business needs;
+- Ability to look at the ""big picture"" and a forward looking attitude
+with vision to develop new, innovative products using new and evolving
+technologies;
+- Prototype new product concepts;
+- Lead the engineering team on the continuous improvement of software
+infrastructure;
+- Give presentations to technical and non-technical audiences and
+articulate complex technical requirements and designs."	Architect
+"- Work as a part of international project teams for leading IT
+companies;
+- Code in accordance with defined standards;
+- Mentor team members as required;
+- Perform unit and system integration tests;
+- Business trips to Europe and the US  possible."	Technical Lead
+"•	Gathering and refining the specifications and requirements based on technical needs and create layout/user interface by using standard HTML/CSS practices
+•	Integrated couple of open source JS libraries to display dynamic, automatically organized, customizable network topology views. The library consists of the components Dataset, Timeline, Network, Graph2d and Graph3d
+•	Building reusable code and directives/libraries for future use"	Software Engineer
+"- Work with customers to ensure that products meet requirements for
+reliability and quality.
+- Will ensure delivery of designs that meet or exceed customer
+requirements.
+- Ensure test reports, data and other applicable documentation are
+complete and in accordance with specifications and purchase order
+requirements.
+- Design and implement quality process control programs, bug reporting
+systems, procedures and techniques.
+- Define, integrate and continually improve the design assurance process
+by suggesting and implementing new strategies on IP design projects."	Quality Assurance
+"•	Provided full-stack UX oversight to produce a robust mobile data collection solution.
+•	Researched and presented UX and UI design recommendations; leveraged CogTool, R, and Gephi to model user touch/click-path behavior.
+•	Field Mobile Usability Testing with Morae (Manager and Observer).
+•	Invited Speaker for World Information Architecture Day (WIAD 2016), Boise and Global Streamed event, hosted by Healthwise."	Manager
+"- Provide technical leadership and drive the architecture and design
+solution to to meet business needs;
+- Ability to look at the ""big picture"" and a forward looking attitude
+with vision to develop new, innovative products using new and evolving
+technologies;
+- Prototype new product concepts;
+- Lead the engineering team on the continuous improvement of software
+infrastructure;
+- Give presentations to technical and non-technical audiences and
+articulate complex technical requirements and designs."	Architect
+"Increased institutional effectiveness by performing data analysis developing high level reports using SQL and PL/SQL for Office of the Deans and College of Education fulfilling program evaluation and accreditation initiatives. Communicated with internal and external constituents gathering business requirements ensuring feasibility. Increased operational efficiency by implementing Educator Preparation Reform System according to Systems Development Life Cycle.
+
+Increased service satisfaction by training end users on Business Intelligence reporting software.
+Managed Livetext database by data manipulation, administering accounts, security, passwords ensuring data integrity.
+Modeled historical and trend data for President's budget forecast analysis, Dean Interview Committee, Alumni Events, Graduation Comparison rates.
+Collected and compiled enrollment data for Online U.S. World News, U.S. World News, Professional Education Data System and Institutional Post-Secondary Data System survey submissions."	Database Administrator
+"- Develop software according to requirements;
+- Take part in gathering requirements;
+- Take part in system architecture development;
+- Participate in planning;
+- Complete work according to deadlines;
+- Take part in mentoring other developers professional skills"	Architect
+To participate in projects	Software Engineer
+"Responsible for Oracle 9i logical and physical database design, implementation, and maintenance on Windows NT
+Created new databases and users: set up backups, export, and other monitoring scripts
+Implemented database refresh using full export for table level and full database defragmentation, resulting in improved performance and effective space management.
+Managing database security. Design, develop, and implement automated data backup and restoration procedures. Provide technical support for database maintenance and disaster recovery
+Identify, recommend, and implement all new database technologies and Oracle license management."	Database Administrator
+"- Prepare spatial databases and ArcGIS shape layers for water resources
+of Armenia; 
+- Assist in GIS-based mapping including scanning and digitizing;
+- Contribute to training of counterpart agency staff in database
+management techniques (GIS and populating databases);
+- Conduct comprehensive populating of State Water Cadastre Information
+System databases under MS Access."	Database Administrator
+"- Develop J2EE applications;
+- Be responsible for data-modeling and database design;
+- Implement user web interface technologies;
+- Interact with business owners, enterprise and system architects,
+developers, project managers and QA."	Technical Lead
+"- Roll out, maintain, and repair the IT infrastructure, including
+facilities, hardware, and software;
+- Deploy, operate and support IT systems and resources, including all
+using IT equipment (cabling and wiring, servers, network, power supply
+and wiring closet equipment, end-user equipment, software, etc.), remote
+administering;
+- Manage users accesses to IT services, grant and revoke specified
+accesses and rights; configure users workplaces and mobile devices,
+including network connections, administering the local PABX, accounts,
+mailboxes, etc.;
+- Manage IT costs, resources, and contractors, including budgeting and
+planning, hardware/software inventory, local hot stock, service, supply
+and integration contracts, with guidance from Central IT;
+- Maintain Central IT procedures, instructions and job standards,
+including execution of reporting requirements, incidents documentation,
+systems/users lists keeping; 
+- Maintain clear communication with the location management and staff,
+with Central IT, with local contractors, suppliers and service
+providers;
+- Participate in IT projects during the whole multi-stage process,
+according to level of responsibility."	Manager
+"•	I have been working as Technical Architect and the core responsibility are:
+o	Designing the application for Azure Cloud compliance.
+o	Migrate all legacy code in MVC and new modern technology.
+o	Migration of complete application from On-Prime to Azure Cloud.
+o	Database migration from On-Prime SQL to SQL Azure
+o	Design SOA to scale the application across the globe.
+•	Code review and Security implementation.
+•	Support application end to end on production environment. 
+•	The technology we have been used
+o	VS 2015, C#, ASP.Net 
+o	SQL Azure, Cloud Service, Web Roles, Worker Roles, Storage Account, CDN, Traffic Manager, Azure Service Bus, Rely messaging etc.
+o	Redis Cache
+•	Environment: Azure PaaS, SQL Azure, Redis Cache, Service Bus."	Architect
+"- Design, develop, introduce and assist technical project staff to use
+the M&E database and M&E management information system. Design and
+modify software for project monitoring and evaluation, and associated
+statistical assessments to supporting intervention refinement, and
+reporting needs of the project;
+- Work with the technical Monitoring and Evaluation Team and with
+project Component teams, to create efficient analytic systems and data
+collection and data management, implement and maintain quality control
+in data management and maintain and help use project databases as needed
+for projects decision-making;
+- Work with project technical staff in the wider process of coordination
+and integration of information systems in/ with the primary healthcare
+level;
+- Participate together with the wider Project IT staff-pool in the
+creation and maintenance of office network (intranet) and IT solutions
+in office, and interfacing with offices and partners in the field;
+- Provide training to project staff, in use of database resources,
+software and methods;
+- Perform other duties as assigned by the Chief of Party and/ or Team
+Leader."	Database Administrator
+"- Develop databases using MySQL InnoDB tables;  
+- Develop Database Abstraction Layer using PHP    mysqli extension;
+- Read, understand and modify an existing code."	Architect
+"- Design and implement RDBMS schemas and data access components;
+- Develop strategies for deployment of high performance RDBMS
+operations;
+- Design and code software components for web applications;
+- Develop high performance and scalable algorithms;
+- Interact with technical managers to facilitate the smooth flow of all
+technical information;
+- Interact and train QA Engineers in all technical aspects of the
+projects."	Architect
+Development of Java Web Applications	Software Engineer
+"- Be responsible for office ATC installation and administration;
+- If necessary, be responsible for computer and data communications
+equipment selection and purchase coordination;
+- Establish and develop relations with mobile, fax and internet
+communication, service providers."	Manager
+"•	Provided leadership, direction, and support to technical team. 
+•	Modeled all the internal processes of the customer, relating to their Media Asset Management and Content Scheduling & Sales system into IBM MQ Workflow"	Technical Lead
+"- Manage and develop detailed project plans and schedules for software
+development: allocate resources accordingly;
+- Manage team members responsible for implementing the software system
+and architecture. Drive their task lists;
+- Present development goals and updated progress reports;
+- Work with Technical Support and Quality Assurance to record and report
+issues from the field, understand  project perspectives, gather
+enhancement requests, and understand and solve implementation issues;
+- Maintain and recommend software development tools and processes.
+Evaluate tools requested by developers, seek improvements in processes,
+recommend tools based on industry standards and accepted methodologies."	Manager
+"?	Have been involved in customer interaction and meetings about portal
+?	Involved in requirement gathering, discussion with other technical teams who going to use this portal in future.
+?	Prepared test cases, Software design document and software technical document. 
+?	Involved in GO –NOGO meeting with client and deadline of Sprints."	Technical Lead
+"- Design and implement RDBMS schemas and data access components;
+- Develop strategies for deployment of high performance RDBMS
+operations;
+- Design and code software components for web applications;
+- Develop high performance and scalable algorithms;
+- Interact with technical managers to facilitate the smooth flow of all
+technical information;
+- Interact and train QA Engineers in all technical aspects of the
+projects."	Architect
+"- Rendering technical assistance to Database Management Systems;
+- Realization of SQL servers maintenance activities: back-up and
+replication;
+- Participation in designing of software development projects."	Software Engineer
+"Served as DBA or project lead in the completion of 80+ medium- to large-scale implementations, managing projects from business requirements analysis to solutions delivery and support.
+Managed a $1.2 million data-integration project for financial services firm that consolidated information from accounting applications, third-party market data and internal equities/fixed income applications.
+Contributed to furniture retailer’s 15% revenue growth in 2016 by standardizing content from disparate databases, enabling sales and support staff to quickly respond to customer requests.
+Created Web-enabled, group-scheduling system for a large university, allowing students to view and print schedules for current and future semesters. Delivered solution on time, on spec and on budget.
+Innovated time-saving, robust employee data-intake system that automated database update functions, enabling new salary and process-exception information to be automatically populated.
+Developed and tested storage strategies and disaster-recovery plan for large manufacturing company’s operational database, delivering solution that guaranteed recovery performance and high availability.
+Enhanced users’ understanding of database systems by conducting pre-implementation workshops, delivering group and individual training sessions and creating user-friendly training materials."	Database Administrator
+"Created Oracle 8i databases for 2 large departments, from planning and testing through production.
+Implemented backup and recovery procedures of databases in Sun Solaris and Red Hat Linux environment: implemented backup and recovery procedures and IT department manual.
+Managed database remodeling and interface development during migration from MS Access to MS SQL server and from MS SQL to Oracle 8i
+Enhanced MS-Access databases by improving user interface, introducing multiple-user access, and increasing security and stability
+Involved in all phases of database development, from needs assessment to QA/QC, design, and support"	Database Administrator
+"- User Centered Design: Demonstrate knowledge when performing
+user-centered design tasks independently and has applied best practices
+for moderately complex systems;
+- User Interface Design: Show expertise when applying human factors
+knowledge to design complex user interfaces across a variety of
+technology platforms;
+- Web Concepts: Demonstrate business and conceptual understanding of web
+applications and assess new technology, platforms and design criteria
+impacts;
+- Usability Testing: Direct usability testing and make recommendations
+to make a state-of-the-art, multi-platform systems;
+- User Interface Standards and Best Practices: Highest expertise
+applying industry user interface design standards and best practices to
+design usable, intuitive and highly complex software applications."	Architect
+"Work with the development team to resolve bug-fixes and assist in relevant testing through various environments
+Conduct performance reviews and contribute to performance feedback for all levels of staff
+Monitor SQL server and database performance and proactively address potential performance issues
+Review, design, and develop data models in conjunction with application development teams
+Working knowledge of PowerShell and/or .NET Framework
+Provide solutions for database issues including capacity, redundancy, replication, and performance
+Assist in developing strategic technical/architectural plans for the SQL database and web applications infrastructure"	Database Administrator
+"The key elements of the role are full life cycle
+product development working in a technically strong team through
+requirements gathering, architecture, development and release. The
+candidate is required to work closely with the other technical members
+of the international Lycos Billing Platform team."	Software Engineer
+"•	Involved in development of Imaging & queue based workflow (Newgen FinFlow 1.0, 2.0) and document management (CitiDocs) system applications on VB 6.0, ASP technologies in domains of Banking and Insurance.
+•	Onsite Coordinator to implement a window/web based workflow application for Bank of Punjab (India) to automate their loan processing division and Philips (India) to process Billing and Vendor payment.  "	Software Engineer
+"- Management of development teams.
+- Software architecture development.
+- Documentation writing.
+- Working according to software requirements.
+- Taking part in long-term and complex projects."	Technical Lead
+"As a senior QA engineer you are responsible for
+whole testing projects. It includes tasks such as writing test plan,
+performing tests, writing reports"	Quality Assurance
+"- Provide software quality assurance (SQA) of Inegrated Circtuits
+design;
+- Make software quality testing with some guidance from senior level
+managers and other engineers."	Quality Assurance
+"•	Architecture and design of service oriented multi-tier application
+•	Designing business layer using domain driven design and onion architecture
+•	Design and Implementation of calculation engine – framework, libraries, factories and calculators
+•	Design and Implementation of different UI modules, WCF web services and RWA calculator
+•	SSO Authentication and authorization implementation, cache implementation
+•	Infrastructure setup, deployment and load balancer configurations
+•	Preparing architecture specification, rich domain and technical design documents
+•	Code reviews of other team members and Performance tuning activities"	Architect
+"- Manage the team of software developers;
+- Interact with project manager and contribute to the project planning;
+- Participate in Object Oriented Analysis/ Design;
+- Write software based on specifications/ design;
+- Interact with other members of the team, such as documentation and
+testing experts."	Technical Lead
+"•	Proposing solution to increase the efficiency of business and reducing the sustain efforts
+•	Presenting and interacting with customer on proposed solution
+•	Preparation of design and creating document of understanding
+•	Estimating the efforts of implementing the solution
+•	Code review of developed solution
+•	Helping business in UAT"	Architect
+"- Provide software quality assurance (SQA) of Inegrated Circtuits
+design;
+- Make software quality testing with some guidance from senior level
+managers and other engineers."	Quality Assurance
+"included customer interaction, requirement understanding, creating scope and estimation documents, configuring demos & POCs, writing functional documents, preparing and conducting presentations, Project Planning, and overall delivery and project management. Scope of responsibilities included working in various time zone of US and Australia."	Architect
+"- Develop critical framework components/reusable modules;
+- Establish, maintain and adhere to set of development standards and
+patterns;
+- Document technical findings/decisions and make technical
+presentations;
+- Maintain, improve and optimize Lycos internal software development
+process."	Architect
+"- Supervise the development of sophisticated applications for financial
+clients;
+- Understand the client requirements and design their implementation in
+the .NET platform;
+- Organize and lead the collaboration of his/her team with the team of
+quantitative analysts;
+- Serve as the liaison between his/her team and development teams in
+other company locations;
+- Provide leadership and guidance to his/her team of software
+developers, ensure their continued professional growth;
+- Organize and maintain quality controls to ensure the highest
+production standards; 
+- Manage the team growth and recruitment of new specialists."	Technical Lead
+"- Maintain Oracle systems operations high availability; 
+- Install, tune, optimise and troubleshoot Oracle instances;
+- Install Oracle on Linux/UNIX;
+- Write and optimize code in PL/SQL;
+- Monitor and implement SQL*Loader, Imports/Exports,  Backup and
+Recovery strategies; 
+-  Lead SQL queries and reports."	Database Administrator
+"- Assist the program management in implementing the Program component
+related to the development of the State Water Cadastre Information
+System;
+- Refine and utilize water use guidelines and associated regulations;
+- Assist in designing and populating databases based on MS Access;
+- Design and build database user interface and data entry forms;
+- Design and construct database reports;
+- Conduct comprehensive populating of established cadastral databases;
+- Design and construct data import and export utilities;
+- Assist in GIS-based mapping."	Database Administrator
+"?	     End to end delivery of the project including Project Management, Business Analysis, coordination with the business and technology stakeholders.
+?	    Key projects handled includes e-Signing for Onboarding, Sunday Trading, Intellimatch CLM/ETD implementation, Enterprise Bookkeeping Engine, Repos and TermDeposits.
+?	    Accountable for gap analysis, requirement gathering and producing the required artefacts including BRD, FRD, UAT approach document and doing the reviews with technology teams.
+?	    Hosting trainings/workshops for the technology teams."	Manager
+"•	Implemented dynamically create Form by using Bootstrap and HTML5 based on editable Feature Services Data. 
+•	Implemented various classes and controls of Bootstrap such as DateTime Picker, Touch Spinner, various Input controls based on Datatypes.
+•	Populate Data in the controls by using JavaScript, jQuery, Dojo toolkit.
+•	Implemented GeoCoding on Map to find current location of the user in the Form.
+•	Implemented file attachments in the Form.
+•	Create responsive application by using media query and CSS3. 
+•	Provide support on all browsers, tablets and smart phones."	Software Engineer
+"- Test a high end banking web application;
+- Develop testing strategies;
+- Document errors;
+- Deploy functional code."	Quality Assurance
+"The incumbent will be responsible for the entire
+process of development, from feasibility study to design, implementation
+and delivery to quality assurance group."	Technical Lead
+"Provides database administration support to projects that are assigned by Burlington.
+Lends technical assistance to project team members and database administrators.
+Troubleshoots company’s and subsidiaries’ database issues and applications.
+Performs the following database administration tasks such as DBMS installations and upgrades, migrating databases, changing server configuration parameters, transferring system databases and managing users and logins.
+Develops, tests and institutes SQL scripts as required by Burlington’s projects.
+Prioritizes assigned tasks and ensures these are completed on or before the scheduled date of completion."	Database Administrator
+"Participation with the team members, doing application analysis, development and modification along with providing design recommendations for developing and integrating programs per written specifications.
+•	Responsible for delivering integration programming solutions to meet client specific requirements related to B2B platform.
+•	Client interaction, designing, analysis, development, debug and documenting programming to satisfy business requirements."	Technical Lead
+"- Maintain, administer and operate Oracle Databases with goal of high
+availability;
+- Be responsible for Tune Oracle Databases for best performance;
+- Analyse and solve problems in the area of Oracle databases;
+- Execute changes with effect on Oracle databases;
+- Related processes: Deployment/System Rollout Process, Capacity
+Management, Availability Management, Continuity Management, Operations
+Management, Incident/Problem Management, Change Management, Service
+Level Management (ITIL)."	Database Administrator
+"Specific tasks and key responsibilities include
+but are not limited to:
+- Translate design requirements and specifications into robust
+implementations;
+- Design, proto-type, develop and manage the technical aspects of the
+software;
+- Perform implementations in a timely fashion;
+- Perform quality assurance tasks, such as testing of the software
+products."	Software Engineer
+"- Design, develop and maintain automated tests;
+- Run tests and record test results;
+- Identify, reproduce and report defects;
+- Verify defect fixes;
+- Create and maintain test plans from requirements and design
+documents;
+- Maintain other test documentation."	Quality Assurance
+"- Be responsible for office ATC installation and administration;
+- If necessary, be responsible for computer and data communications
+equipment selection and purchase coordination;
+- Establish and develop relations with mobile, fax and internet
+communication, service providers."	Manager
+"The Web Developer/ Programmer will be responsible
+for writing scripts and programs, generating interfaces, integration of
+Flash pages and maintaining our worldwide customers databases on daily
+basis."	Software Engineer
+"Specific tasks and key responsibilities include
+but are not limited to:
+- Design and fine-tuning of the physical data model for an application;
+- Creation of the physical databases for an application;
+- Troubleshooting and fine-tuning of databases performance in production
+to ensure maximum performance;
+- Development of integration, replication and backup/ restoration
+strategies;
+- Development of required stored procedures for the applications."	Database Administrator
+"- Gather and produce requirements and designs;
+- Write and test code for the required product;
+- Plan software development activities and follow established processes
+accurately;
+- Share knowledge, mentor peers, listen and hear team members positions
+and provide a fair evaluation of different opinions;
+- Assign build master from development team members;
+- Prepare the build status report;
+- Communicate with management and team members effectively;
+- Keep commitments;
+- Participate in discussions regarding technical issues;
+- Work as part of a software development team."	Technical Lead
+"•	Involved in the preparation of Test Plan, Test Estimation and Exit report.
+•	Assigned and coordinated work from offshore.
+•	Prepared status summary reports with details of executed, passed and failed test cases on daily and weekly basis.
+•	Test case preparation with 100% test coverage.
+•	Conducted Knowledge sharing sessions to the new members joined   offshore team 
+•	Actively participated in analyzing defects with the onsite team.
+•	Responsible for the preparing and maintaining artifacts like Understanding documents, Defect/Clarification Tracker, Test scripts and Execution of Test cases.
+•	Involved in different kinds of testing like Functional, Regression and UAT testing."	Quality Assurance
+"- Manage and develop detailed project plans and schedules for software
+development: allocate resources accordingly;
+- Manage team members responsible for implementing the software system
+and architecture. Drive their task lists;
+- Present development goals and updated progress reports;
+- Work with Technical Support and Quality Assurance to record and report
+issues from the field, understand  project perspectives, gather
+enhancement requests, and understand and solve implementation issues;
+- Maintain and recommend software development tools and processes.
+Evaluate tools requested by developers, seek improvements in processes,
+recommend tools based on industry standards and accepted methodologies."	Manager
+"- Manage/design the architecture of the projects within the group 
+- Planning together with the team (estimate, dependencies etc) 
+- Software development 
+- Technical quality of the project 
+- Code review within the group 
+- Act as a mentor for the team"	Architect
+"- Be responsible for planning, preparing, reporting of test processes as
+well as organizing the process of test automation;
+- Lead and direct the work of others, if necessary;
+- Be responsible for installation tests of applications, automated
+framework development for white-box analysis of sources and
+configuration management;
+- Participate in development of new test tools or enhancement of already
+existing ones;
+- Control the test activities;
+- Report to the QA Manager."	Quality Assurance
+"- Define quality and design requirements for entry and outgoing data, as
+well as other traits of reports presented by entities accountable to the
+FIU according to the Law on Anti-Money Laundering and Combating
+Terrorist Financing (herein AML/CFT);
+- Input data into databases, maintain operation ability of centralized
+databases;
+- Analyse technical eligibility of reported data and identify mismatches
+in reports; 
+- Maintain availability of needed data in analyzable format;
+- Provide analyst with data needed in usable formats;
+- Responsible for technical maintenance and development of data formats
+and databases, also on the basis of analysis of international experience
+conducted;
+- Provide professional assistance and trainings to stakeholders in the
+field of AML/CFT respective to his/her proficiency field."	Database Administrator
+"•	Lead and manage the delivery process for multiple solutions/projects – from scoping, design, development and launch.
+•	Promote best practices in design, development, and deployment of major initiatives.
+•	Manage the overall performance of the system."	Architect
+"?	Worked actively in SITA GSL OMAN Phase 3, Phase 2.5 and Phase 2.0 Enterprise Product consisting of a Web Application, Server, Client and Mobile application Portal.
+?	As an Individual contributor in the domain of Product Quality Assurance, Customer training and support, Feature Designing, mentoring fellow team members in one of the market leading software product.
+?	Oversaw the Quality procedures related to the project and performed quality audits to ensure templates, procedures and methodologies are adhered to International standards.
+?	Appreciated for taking lead for the changes introduced in automation and improved the productivity of the team.
+?	Automated the customer workflows for GSL Automation and executing them in production like environment."	Technical Lead
+"- Management of development teams.
+- Software architecture development.
+- Documentation writing.
+- Working according to software requirements.
+- Taking part in long-term and complex projects."	Technical Lead
+"- Design and develop test systems; 
+- Troubleshoot and detect bugs in software programs."	Quality Assurance
+"Understand/Analyze Business Requirement. Design Technical solution and Create the Technical Design document. Implementation. Functional Testing, Full Data Testing & UAT Support"	Technical Lead
+"•	Developed Test Plan, Test Cases, and Test Scripts for Newly developed system. 
+•	Actively Participated in walkthrough meetings. 
+•	Managed and conducted ETL  and Report testing.
+•	Tracked the defects using Quality Centre and generated defect summary reports.
+•	Prepared status summary reports with details of executed, passed and failed test cases on daily and weekly basis."	Quality Assurance
+"- Support the project manager in developing the projects schedule and
+assisting in project coordination;
+- Work with developers to define the work breakdown structures for the
+technical activities associated with each project and provide accurate
+time-estimates for assigned tasks;
+- Act as liaison between the project managers and the web developers;
+- Act as a technical reference for the team by providing technical
+guidance;
+- Design, develop and implement client-facing and internal web
+applications using HTML, DHTML, CSS, JavaScript, AJAX, jQuery and
+ASP.NET;
+- Revise and update printed and online marketing materials under lead
+designers guidance;
+- Slice and optimize graphics for GUI development;
+- Architecture analysis and documentation of the software specifications
+for web applications;
+- Be responsible for designing new application features and
+functionality;
+- Define both functional and technical requirements to facilitate design,
+development, testing, implementation and ongoing support;
+- Assist and support other team members on multiple projects;
+- Provide support and enhancements to existing production applications in
+a timely and accurate manner;
+- Play active role in defining and implementing best practices, standards
+and procedures including quality and delivery methodologies;
+- Ensure compliance with the documented software processes and procedures
+throughout the life cycle of software products;
+- Ensure quality and reliability of code from the development team by
+conducting a smoke testing and code reviews;
+- Propose and decide on technologies used;
+- Ensure consistency of design elements and interactive behaviors within
+individual pages/ forms/ components and across entire projects;
+- Train subordinates;
+- Share knowledge and lessons learned with team members."	Technical Lead
+"Analyzed, conducted and implemented physical database designs.
+Documented and maintained current database patches.
+Worked to ensure all data are recovered, systems and data integrity are maintained.
+Conducted audits on the environment and provided capacity planning, best practices guide for future production, development and tests on database administration.
+Carried out performance assessment test and tuning on the database system."	Database Administrator
+"- Maintain Oracle systems operations high availability ;
+- Install, tune, optimize and troubleshoot Oracle instances;
+- Backup and Recovery strategies;
+- Lead SQL queries and reports."	Database Administrator
+"- Maintain Oracle systems operations high availability; 
+- Install, tune, optimise and troubleshoot Oracle instances;
+- Install Oracle on Linux/UNIX;
+- Write and optimize code in PL/SQL;
+- Monitor and implement SQL*Loader, Imports/Exports,  Backup and
+Recovery strategies; 
+-  Lead SQL queries and reports."	Database Administrator
+"- Create, manage and update project related documentation;
+- Participate in all stages of the software development life-cycle;
+- Schedule, conduct and document project review meetings;
+- Meet established project deadlines;
+- Manage project on a day-to-day basis;
+- Keep project on track;
+- Ensure team awareness on the project  goals and needs;
+- Contribute to improvement of development processes;
+- Communicate effectively with the external Project Managers and Local
+Management"	Manager
+"•	Enhance the existing framework for UI and API testing
+•	Writing feature file for new enhancement in the product
+•	Writing script for new features
+•	Integrate the new feature with existing CI
+•	Analyze the CI jobs and find the Root cause analysis of the build failure
+•	Analyzed the server logs using Putty and WinSCP"	Quality Assurance
+"- Manage the carrier interconnection;
+- Analyze existing technical solutions. Create development strategies;
+- Address technical issues;
+- Integrate new systems;
+- Be responsible for technical development planning."	Manager
+"Database administration, installation, backup
+administration, optimization in Informix and Oracle Database, Unix
+systems."	Database Administrator
+"- Lead efforts to define system and process requirements specific to
+user needs;
+- Lead analysis and review existing system problems. Accept input from
+others and make recommendations for improvements;
+- Oversee software integration and interface development;
+- Streamline processes to maximize utility of existing IT resources;
+- Help business operations utilize information systems to improve
+efficiency;
+- Deploy new performance monitoring and alert services, focusing on
+security and protecting the companys and clients data;
+- Analyze, report on, and make recommendations for the improvement and
+growth of the IT infrastructure and IT systems;
+- Resolve all project issues including timeline, scope changes, software
+functionality and technology including managing project quality to ensure
+meeting business requirements."	Manager
+"•	Performed functional testing of an application
+•	Developed test cases to test the application manually
+•	Compared actual & expected results
+•	Categorized bugs based on the severity"	Quality Assurance
+"- Produce and maintain clean, high quality code;
+- Work as a part of a software development team;
+- Maintain current knowledge of information technology trends with
+ability to research and evaluate new applicable directions and
+technologies;
+- Mentor and coach development team members; provide expert advice and
+thought leadership for the team;
+- Lead the choosing of application technologies, development standards
+and CI infrastructure;
+- Lead all the phases of application development."	Technical Lead
+"Responsible for design, development, application
+and maintainance of test systems."	Quality Assurance
+"Ensured that all production databases are running efficiently 24/7.
+Implemented appropriate backup and restore strategies to protect all data assets.
+Monitored database performance, tracked and stored procedures and queries’ execution times and implemented improvements on efficiency.
+Responded to and resolved all database access and performance issues.
+Configured SQL Server for optimum performance.
+Oriented other database administrators on SQL Server management including upgrades and migration."	Database Administrator
+"- Implement and accomplish fraud management procedures;
+- Perform analysis of new and existing systems and platforms ensuring
+receipts and processing of payments;
+- Create, implement and develop integrated method of determination and
+control over revenue loss;
+- Develop and implement effective working methods of the division in
+accordance with tasks assigned;
+- Prepare and present necessary reporting in a timely manner."	Technical Lead
+"- Propose database architecture 
+- Act as a database mentor for all of our teams 
+- Development in the area of databases 
+- Performance tuning in the area of databases"	Architect
+"•	Responsible for end to end solution alignment and meet the target state of the bank.
+•	Participated in vendor selection RFP for Payment Engine for client.
+•	Responsible for estimation and proposal writing for the project.
+•	Responsible Project Planning, Risk Management, Quality Assurance, Integration between different project areas.
+•	Technical alignment and solution with all the impacted system and other product system’s.
+•	Accountable for Managing budget, schedule and end to end delivery of the project.
+•	Accountable for stakeholder management and managing escalations.
+•	Accountable for regular status reporting to various levels both to internal and client stakeholder’s.
+•	Accountable to adhere PMO and CMMI Level 5 standard and guidelines.
+•	Active participation in finalizing architectural solution and assisting technical team to align with solution."	Manager
+"?	Data Extraction and management using BRIO
+?	Data updating and data reporting on Oracle Logistics (Oracle EBS).
+?	Data Validations and Worksheet Creation.
+?	Handling/Resolving customer queries within 30 min TAT
+?	Perform database validation using SQL queries
+?	Involved in setting up test systems for executing test cycles."	Quality Assurance
+"•	Operational Service Configuration.
+•	Implemented widget structures.
+•	Implementing GIS functionalities:
+•	Geocoding, reverse Geocoding on Map. 
+•	Explore, override and enhancement of ESRI direction widget.
+•	Proximity analysis of data services. 
+•	Sharing functionality through social networking. 
+•	Responsible for GUI designing.
+•	UI development for smartphone/tablet using media query.
+•	Resolving service tickets from customers. 
+•	Managing change request and supporting during various testing and go live phase.
+•	Direct interaction with client for unplanned requirements and supports.
+"	Software Engineer
+"- Lead efforts to define system and process requirements specific to
+user needs;
+- Lead analysis and review existing system problems. Accept input from
+others and make recommendations for improvements;
+- Oversee software integration and interface development;
+- Streamline processes to maximize utility of existing IT resources;
+- Help business operations utilize information systems to improve
+efficiency;
+- Deploy new performance monitoring and alert services, focusing on
+security and protecting the companys and clients data;
+- Analyze, report on, and make recommendations for the improvement and
+growth of the IT infrastructure and IT systems;
+- Resolve all project issues including timeline, scope changes, software
+functionality and technology including managing project quality to ensure
+meeting business requirements."	Manager
+"- Deploy, develop and maintain the website for management and exchange
+of product informations.
+- Programming in HTML and using PHP scripts/programs with MySQL.
+- Maintaining security of the website, developing and implementing an
+access control system enforcing different levels of access."	Software Engineer
+"- Manage a team of exceptional software professionals;
+- Define, maintain, oversee and enforce engineering processes;
+- Provide project leadership for key projects;
+- Train and mentor project leaders;
+- Take responsibility for release dates, milestones and budgets."	Manager
+"- Roll out, maintain, and repair the IT infrastructure, including
+facilities, hardware, and software;
+- Deploy, operate and support IT systems and resources, including all
+using IT equipment (cabling and wiring, servers, network, power supply
+and wiring closet equipment, end-user equipment, software, etc.), remote
+administering;
+- Manage users accesses to IT services, grant and revoke specified
+accesses and rights; configure users workplaces and mobile devices,
+including network connections, administering the local PABX, accounts,
+mailboxes, etc.;
+- Manage IT costs, resources, and contractors, including budgeting and
+planning, hardware/software inventory, local hot stock, service, supply
+and integration contracts, with guidance from Central IT;
+- Maintain Central IT procedures, instructions and job standards,
+including execution of reporting requirements, incidents documentation,
+systems/users lists keeping; 
+- Maintain clear communication with the location management and staff,
+with Central IT, with local contractors, suppliers and service
+providers;
+- Participate in IT projects during the whole multi-stage process,
+according to level of responsibility."	Manager
+"- Manage a team of exceptional software professionals;
+- Define, maintain, oversee and enforce engineering processes;
+- Provide project leadership for key projects;
+- Train and mentor project leaders;
+- Take responsibility for release dates, milestones and budgets."	Manager
+"- Software quality assurance in accordance with developed requirements
+- Taking part in requirements development and analysis
+- Taking part in testing strategy development, testing documentation
+development
+- Taking part in planning
+- Commitment to meeting deadline according to a plan
+- Keeping rules of team work on a project
+- Improving skills, learning new tools and testing technologies 
+- Taking part in improving professional level of other team members
+- Taking part in managing a testing team"	Quality Assurance
+"- IC design software quality assurance (SQA);
+- Software quality testing with some guidance from senior level managers
+and other engineers."	Quality Assurance
+"Responsible  for managing  different  aspects  of project  execution  including schedule, scope, quality, risk, stakeholder, vendor, resource and integration activities.
+•	Facilitation of project activities and communicating project deliverables, milestones, problems etc. to multiple levels of participants and stakeholders
+•	Provide leadership over the project team (including  Developers, Operations Team, vendors etc).
+•	Leading  new  requirements  to  design,  develop,  and  implement  and  follow  new  systems following established project management methodologies and standards.
+•    Identification of resources/ skills required to support project activities.
+•  Conducting  project  team and stakeholder  meetings,  appropriately  elevating  issues  of scope schedule with the Client and Management.
+•  Complete webMethods Administration & server security.
+•  Create  &  execute  project  work  plans  &  revise (DevOps Technique)  as  appropriate  to  meet  changing  needs  &
+requirements.
+•  Conduct risk analysis & prepare mitigation strategies where necessary.
+•  Coordinate multidisciplinary activities to ensure that the project deliverables are met.
+•  Identify resources needed & work with section heads to assign individual responsibilities.
+•  Manage day-to-day operational aspects of a project & scope.
+•  Review deliverables prepared by team before passing to client.
+•  Effectively apply methodology & enforce project standards.
+•  Conduct project review meetings with clients & prepare agendas, meeting minutes & project summaries.
+•  Hold regular status meetings with project team.
+•  Ensuring the adherence to the delivery dates."	Manager
+"- Administrater the whole IS infrastructure of all TO (tobacco
+organization) Armenia offices and DCs;
+- Perform the disaster recovery, system and user administration of
+Exchange Server, Active Directory and other Windows 2003 server based
+systems;
+- Manage the end-user relations and non-business application
+requirements of all TO Armenia offices and DCs;
+- Interact with the rest of the Group IS and third party vendors for
+operational resolutions;
+- Administer the locally hosted application databases such as MS SQL;
+- Manage IS infrastructure and Helpdesk issues and report/ escalate to
+IS/Market Manager;
+- Perform the local and Group IS procedures to ensure proper support and
+control levels;
+- Execute/ coordinate preventive and active maintenance for the IS
+equipment of all TO Armenia offices;
+- Advise/ consult infrastructure, system and IS environment solutions to
+improve the cost, quality and support structure and implement them."	Manager
+"- Software architecture development.
+- Writing documentation. 
+- Working according to software requirements."	Architect
+Development of Java Web Applications	Software Engineer
+"•	Development of custom components in HTML5/Javascript using OpenUI5( JS Library) for both Desktop and mobile 
+•	Development of custom components using Flex3/Flex4
+•	Adding new features to the existing components as per the requirement of the SAS solutions
+•	Bug fixes in the components developed in SAS
+•	Supporting various components like Wizard, combobox, colorpicker, Code editor, text viewer, panel, tab bar, windowshade, textInputTypeAheadetc
+•	Unit testing of the developed components
+•	Research work on emulators, code coverage tools, debugging in mobile devices for javascript
+•	Conducting knowledge sharing sessions on new technologies/practices learned
+•	Log defects on various SAS components
+•	Taking part in the design draft discussion for various components
+"	Software Engineer
+"Responsible for design, development, application
+and maintainance of test systems."	Quality Assurance
+"•	Transition manager acted as interface with Perpetual’s Senior Management, Business & IT team to facilitate KT for different applications to Offshore GDC Team resources.
+•	Handled project execution and applications tickets (SR and Incidents) resolution remotely (offshore).
+•	Managing day-to-day team and project issues to ensure adherence to all appropriate standards.
+•	Resource management and defined project roles & responsibilities of team to handle applications."	Manager
+"- Develop a database according to the specifics and requirements of the
+program;
+- Supervise the cataloguing of information;
+- Provide technical management of the centers equipment and maintenance
+of the Internet and other IT facilities; 
+- Manage the database, including producing a monthly summary from the
+database for submission to the coordinator;
+- Perform any other duty as assigned by the project management team and
+centre coordinator."	Database Administrator
+"- Understand, define and analyse the needs and funtionalities of the
+software to be developped;
+- Dispatch the programming work to the available ressources;
+- Manage the project and the team;
+- Keep up with deadlines and quality;
+- Activily report to the IT manager."	Manager
+"The Web Developer/ Programmer will be responsible
+for writing scripts and programs, generating interfaces, integration of
+Flash pages and maintaining our worldwide customers databases on daily
+basis."	Software Engineer
+"- Software quality assurance in accordance with developed requirements
+- Taking part in requirements development and analysis
+- Taking part in testing strategy development, testing documentation
+development
+- Taking part in planning
+- Commitment to meeting deadline according to a plan
+- Keeping rules of team work on a project
+- Improving skills, learning new tools and testing technologies 
+- Taking part in improving professional level of other team members
+- Taking part in managing a testing team"	Quality Assurance
+"- Estimate/plan development projects in conjunction with other
+developers/experts;
+- Participate in all stages of the software development life-cycle;
+- Prepare documents and diagrams for programming work;
+- Develop and fine-tune the LinkGard software development methodology as
+well as consistently execute the methodology;
+- Help the organization improve ratings based on a capability-maturity
+model (i.e. CMMI);
+- Work with HR to recruit new team members based on current need;
+- Build up a list of in-house skills and resume-database for all
+employees that is available for review by management;
+- Identify growth and learn opportunities by:
+a) identifying conferences/seminars that can be attended by employees;
+b) identifying trainings to conduct locally by foreign or local
+experts;
+c) ordering books/magazines for developers to further their technical
+skills."	Manager
+"- Design, implement and support databases,
+- Implement business rules via stored procedures,
+- Define user interfaces and functional specifications, 
+- Responsible for database modeling, verifying accuracy of data,
+- Maintenance and support of databases,
+- Other duties as assigned."	Database Administrator
+"- Maintain Oracle systems operations high availability ;
+- Install, tune, optimize and troubleshoot Oracle instances;
+- Backup and Recovery strategies;
+- Lead SQL queries and reports."	Database Administrator
+"- Maintain and manage the 1C database, including data entry,
+verification of general reports;
+- Prepare special reports for Sales department Team leaders, Managers
+and Top Management;
+- Manage, maintain and print all necessary forms and documents for Sales
+department according to standard procedures;
+- Update, print and distribute copies of the daily, weekly Field
+Schedule;
+- Assist Sales department management staff with preparation of documents
+and materials;
+- Serve as a backup to the Administrative Assistant when necessary;
+- Facilitate communications between members of the Sales department
+staff, i.e., take messages, pass on information, etc.;
+- Assist Sales department staff in communications between staff members
+and clients;
+- Support Sales department with the filing and organization of documents
+and materials;
+- Assist on maintaining all Sales departments and clients files;
+- Attend and translate field meetings whenever necessary;
+- Support Sales department with the written translation of manuals,
+documents, materials and emails;
+- Assist Sales departments staff with scheduling and appointments when
+necessary."	Database Administrator
+"- Software quality assurance in accordance with developed requirements;
+- Commitment to meeting deadline according to a plan;
+- Keeping rules of team work on a project;
+- Improving skills, learning new tools and testing technologies."	Quality Assurance
+"•	Designing Test scenario & Test cases.
+•	Writing Test Cases in Test link
+•	Implementation of processes & Procedures
+•	Involved in target Test Execution
+•	Training of offshore test resources
+•	Work assignment Involved in Client calls."	Quality Assurance
+"Ability to analyze complex problems, ability to
+multi-task and meet deadlines. Solve complex problems with
+multithreading, synchronization and optimizing for performance.
+Good co-operation and collaboration with team members in the development
+and testing."	Software Engineer
+"- Be responsible for business-modeling;
+- Be responsible for project requirements analyzing;
+- Be responsible for system architectural design;
+- Develop technical and project documentations."	Architect
+"1)	Responsible for solution architecture, design, development, and code review.
+2)	Interacting with business to understand the business requirement and ensure the team has clear knowledge of the requirement
+3)	Responsible for project timelines by ensuring the project is per estimated plan."	Technical Lead
+"Key   member   of   the   Integrations   Application   team   which   specializes   in   handling integration projects across company.
+•	Liaising with the Clients and other onsite/ offshore counterparts.
+•	Installing,    designing,    configuring,    supporting,    maintaining,     administering,     and documenting   the   integration   environments   (development,   test,   performance,   QA, training, and production).
+•	Working   with   the   business   and   application   development   groups   to   ensure   the appropriate processes and technical infrastructure are put in place that will meet their business requirements."	Software Engineer
+"?	Worked as a technical lead responsible for delivering a web based application(MS technologies) for “Ministry of Health”, India for controlling malaria & has been implemented successfully across all states and 542 districts in India. 
+?	Contributing in various activities including Requirement gathering, Application Design & Development, Deployment, and Implementation & Client Trainings.
+?	Technology expert on MS .NET technologies helping other projects with-in Organization in terms of application design & architecture along with technical guidance and participation in sales bid proposal for some of domestic clients."	Technical Lead
+"Responsible  for managing  different  aspects  of project  execution  including schedule, scope, quality, risk, stakeholder, vendor, resource and integration activities.
+•	Facilitation of project activities and communicating project deliverables, milestones, problems etc. to multiple levels of participants and stakeholders
+•	Provide leadership over the project team (including  Developers, Operations Team, vendors etc).
+•	Leading  new  requirements  to  design,  develop,  and  implement  and  follow  new  systems following established project management methodologies and standards.
+•    Identification of resources/ skills required to support project activities.
+•  Conducting  project  team and stakeholder  meetings,  appropriately  elevating  issues  of scope schedule with the Client and Management.
+•  Complete webMethods Administration & server security.
+•  Create  &  execute  project  work  plans  &  revise (DevOps Technique)  as  appropriate  to  meet  changing  needs  &
+requirements.
+•  Conduct risk analysis & prepare mitigation strategies where necessary.
+•  Coordinate multidisciplinary activities to ensure that the project deliverables are met.
+•  Identify resources needed & work with section heads to assign individual responsibilities.
+•  Manage day-to-day operational aspects of a project & scope.
+•  Review deliverables prepared by team before passing to client.
+•  Effectively apply methodology & enforce project standards.
+•  Conduct project review meetings with clients & prepare agendas, meeting minutes & project summaries.
+•  Hold regular status meetings with project team.
+•  Ensuring the adherence to the delivery dates."	Manager
+"- Maintain and manage the 1C database, including data entry,
+verification of general reports;
+- Prepare special reports for Sales department Team leaders, Managers
+and Top Management;
+- Manage, maintain and print all necessary forms and documents for Sales
+department according to standard procedures;
+- Update, print and distribute copies of the daily, weekly Field
+Schedule;
+- Assist Sales department management staff with preparation of documents
+and materials;
+- Serve as a backup to the Administrative Assistant when necessary;
+- Facilitate communications between members of the Sales department
+staff, i.e., take messages, pass on information, etc.;
+- Assist Sales department staff in communications between staff members
+and clients;
+- Support Sales department with the filing and organization of documents
+and materials;
+- Assist on maintaining all Sales departments and clients files;
+- Attend and translate field meetings whenever necessary;
+- Support Sales department with the written translation of manuals,
+documents, materials and emails;
+- Assist Sales departments staff with scheduling and appointments when
+necessary."	Database Administrator
+"•	Associate PM for T&M engagement for US Insurance client (www.goldenrule.com) to do requirement analysis, resource planning and quality process management. Also coordinated project UAT and delivery plan with onsite associates.
+•	Individual Contributor to design, develop and setup workflow using Kofax for Australian Insurance client (www.tiofi.com.au) to automate Insurance claim forms processing; wherein any new Insurance Claim form is scanned and the metadata captured using Kofax Batch Classes & stored into SQL Server database.
+•	Project leader to upgrade web based global portal (www.hotelclub.com) offering hotel and accommodation for up to 12 months in advance from ASP 3.0 to ASP.Net for Australian client (Flairview Travel Pty Ltd)."	Architect
+"?	Creating Test Plan and Test Cases for all kind of testing in Oman.
+?	Writing End to End Test cases for System Integration.
+?	Daily, Weekly and Monthly Status Reporting.
+?	Exit Reports at the end of each sprint
+?	Data Migration and Synchronization test for VIS.
+?	Automation using QTP of Regression and Migration test scenarios.
+?	Review Test Scenarios and Test Cases identified by the team.
+?	Involve in the Functional and Technical Analysis during database migration.
+?	Design and execute regression testing suites on impacted systems.
+?	Defect Triage during SIT."	Quality Assurance
+"Software design, implementation and co-management"	Software Engineer
+"- Propose database architecture 
+- Act as a database mentor for all of our teams 
+- Development in the area of databases 
+- Performance tuning in the area of databases"	Architect
+"Working with US representatives (business
+representatives, as well as development team members), cooperating with
+customer representatives, fine-tuning requirements, development of
+design of system key components, management of remote development team
+in Russia."	Technical Lead
+"Implement complex GUI by architecting and
+designing."	Architect
+"- Designs, develops, implements, tests and writes documentation for
+software modules and systems produced by the company;
+- Provides technical support via e-mail and Internet to users of the
+software products;
+- Co-maintains the company's internal development environment."	Software Engineer
+"- Work in close collaboration with the Project Manager to understand the
+application requirements; 
+- Act as the development team leader to automate test scripts."	Quality Assurance
+"- Lead the team;
+- Push team to deliver to its commitments;
+- Generate necessary team documentation;
+- Serve as a strong contributing technical member of the team;
+- Design test cases;
+- Perform manual and automated testing;
+- Design and develop automated test scripts;
+- Perform functional, performance, load, compatibility and usability
+tests of the website;
+- Identify, reproduce and report bugs;
+- Verify fixed defects and perform regression tests to ensure the
+quality of software releases;
+- Create all required test documentations."	Technical Lead
+"- Software quality assurance (SQA) of Inegrated Circtuits design;
+- Software quality testing with some guidance from senior level managers
+and other engineers."	Quality Assurance
+"•	Develop UI for the modules based on the design/wireframes provided.
+•	Debug existing problem related to UI architecture
+•	Develop custom components for the library to be used across all products
+•	Co-ordinating with the team members from various locations(US/UK/Bosnia) to keep track of the development
+•	Unit testing of the developed module
+•	Adding enhancement to the existing modules
+•	Providing guidance to the sub ordinates
+•	Conducting knowledge sharing sessions to on board more people from within the organization"	Software Engineer
+"- Ensure Oracle systems uninterrupted availability; 
+- Be responsible for installation, tuning, optimizing and
+troubleshooting Oracle instances; 
+- Be responsible for SQL*Loader, Imports/ Exports, Backup and Recovery
+strategies monitoring and implementation; 
+- Lead server and PC configuration in reference to SQL*Net; 
+- Prepare SQL queries and reports."	Database Administrator
+"- Work in close collaboration with the Project Manager to understand the
+application requirements; 
+- Act as the development team leader to automate test scripts."	Quality Assurance
+"•	Offshore DigiGrapes team project management using AGILE (SCRUM) methodology.
+•	Reviewing and managing all the necessary documentation required for the project work.
+•	Involved in framework development for backend services using Web API, common framework for management portal in MVC 4 and development of complex functionalities.
+•	Mentoring team member in development according to bellefield app development framework.
+•	Client SIT (System Integration Testing) and UAT (User Acceptance Test). "	Architect
+"- Implement and accomplish fraud management procedures;
+- Perform analysis of new and existing systems and platforms ensuring
+receipts and processing of payments;
+- Create, implement and develop integrated method of determination and
+control over revenue loss;
+- Develop and implement effective working methods of the division in
+accordance with tasks assigned;
+- Prepare and present necessary reporting in a timely manner."	Technical Lead
+"- Manage the team of software developers;
+- Interact with project manager and contribute to the project planning;
+- Participate in Object Oriented Analysis/ Design;
+- Write software based on specifications/ design;
+- Interact with other members of the team, such as documentation and
+testing experts."	Technical Lead
+"- Prepare spatial databases and ArcGIS shape layers for water resources
+of Armenia; 
+- Assist in GIS-based mapping including scanning and digitizing;
+- Contribute to training of counterpart agency staff in database
+management techniques (GIS and populating databases);
+- Conduct comprehensive populating of State Water Cadastre Information
+System databases under MS Access."	Database Administrator
+"•	Defining scope of automation.
+•	Test identification and Estimation.
+•	Automation Framework development.
+•	Test Script development in java and java script.
+•	Creating hybrid automation framework and integrating with maven and Jenkins. 
+•	Performed API testing and Web Services Testing."	Quality Assurance
+"The incumbent will be responsible for the entire
+process of development, from feasibility study to design, implementation
+and delivery to quality assurance group."	Technical Lead
+"- Learning new programming standards (XP),
+- Creating databases for online systems."	Software Engineer
+"- Create designs for (complex) analog and mixed-signal circuitry;
+- Contribute in realizing analog systems from the design track till the
+realization on board-level;
+- Execute the validation and define the qualification of the hardware;
+- Characterize, model and optimize analog circuits and building blocks in
+existing CMOS technologies;
+- Mentor junior engineers and help develop their skills;
+- Lead contact in the communication."	Technical Lead
+"•	Understand the testing effort by analyzing the requirements of project.
+•	Estimate and obtain management support for the time and resources required to perform the testing.
+•	Define the Strategy and Test Plan
+•	Identify training requirements and forward it to the Project Manager 
+•	Assign task to all testing team members and ensure that all of them have sufficient work in the project.
+•	Ensure content and structure of all testing documents / artifacts is documented and maintained.
+•	Document, implement, monitor, and enforce all processes for testing as per standards defined by the NIIT Tech.
+•	Escalate the issues about project requirements (Software, Hardware, Resources) to Project Manager / Sr. Test Manager.
+•	Organize the status meetings and send the Status Report (Daily, Weekly etc.) to the client 
+•	Track and prepare the report of testing activities like test testing results, test case coverage, required resources, defects discovered and their status, etc.
+•	Review Test Scenarios prepared by Test engineers to ensure Requirement coverage.
+•	Prepare Requirement Traceability Matrix
+•	Ensure the timely delivery of different testing milestones.
+•	Prepare / updates the metrics dashboard at the end of a phase."	Quality Assurance
+"- Deploy, develop and maintain the website for management and exchange
+of product informations.
+- Programming in HTML and using PHP scripts/programs with MySQL.
+- Maintaining security of the website, developing and implementing an
+access control system enforcing different levels of access."	Software Engineer
+"WEB sites creation, programming, organization and
+maintenance.
+PHP/MySQL Data base creation, programming and maintenance, School's WEB
+sites administration and consultations.
+Interactive on-line space creation, administration and maintenance, WEB
+training and Consultation."	Software Engineer
+"•	Designing scenario test cases of the functionalities according to business rules.
+•	Validating the Profile data getting created and migrated for users in the database.
+•	Analyzing functionality and proposing appropriate solution according to business rule.
+•	Verifying data at the GDS level using Focal Point.
+•	Transferring Domain knowledge to the team members
+•	Solely handling enhancements that are incorporated in the application as part maintenance.
+•	Reporting of the bugs through Mercury Quality Center and Mantis.
+•	Preparing presentations
+•	Audit and SMR
+•	Mentoring and motivating the team for increasing their operational efficiency"	Quality Assurance
+"- Work as a part of international project teams for leading IT
+companies;
+- Code in accordance with defined standards;
+- Mentor team members as required;
+- Perform unit and system integration tests;
+- Business trips to Europe and the US  possible."	Technical Lead
+"- Software development 
+- Act as a mentor within the team 
+- Code review within the group"	Software Engineer
+: Design application as an architect. Created an application that is making queue of various requests and other application to process this data and A web to create various events and format of that related data along with some set of rules to implement on this data to fire related action. 	Architect
+"Administered and verified database security is maintained according to best practice and company's needs
+Applied patches and upgrades to both Oracle and Banner to provide local support of upgrades and installs.
+Assisted developers with database creation and sizing
+Assisted developers with database design to include an understanding of performance implications
+Assisted production support team in resolving performance issues, defects, and database availability issues
+Collaborated with System Administration team to properly manage database resources, process monitoring, disk management and a comprehensive backup strategy
+Developed a database structure that fit into the overall architecture of the system under development
+Developed relational and/or Object-Oriented databases, database software, and database loading software
+Developed reports and queries to extract data from new and existing relational database applications as necessary
+Ensured database backup strategy including database rollback operates accurately and reliably
+Executed policies, procedures and standards related to database management
+Handled day to day monitoring and maintenance of database
+Implemented upgrades, applied patches and troubleshooting issues
+Made trades among data volumes, number of users, logical and physical distribution, response times, retention rules, security, and domain controls
+Managed user access and security issues such as roles and privileges
+Monitored transaction activity and utilization
+Performed daily administration, maintenance and support of Oracle Database and Applications Servers used for web-based Ellucian Banner ERP environment and SQL Server environment
+Provided basic training and support in the creation of simple queries and reports
+Resolved technical and functional issues identified with all supported ERP modules and other integrated application systems
+Worked with staff and administrators to analyze database management needs"	Database Administrator
+"- Support the project manager in developing the projects schedule and
+assisting in project coordination;
+- Work with developers to define the work breakdown structures for the
+technical activities associated with each project and provide accurate
+time-estimates for assigned tasks;
+- Act as liaison between the project managers and the web developers;
+- Act as a technical reference for the team by providing technical
+guidance;
+- Design, develop and implement client-facing and internal web
+applications using HTML, DHTML, CSS, JavaScript, AJAX, jQuery and
+ASP.NET;
+- Revise and update printed and online marketing materials under lead
+designers guidance;
+- Slice and optimize graphics for GUI development;
+- Architecture analysis and documentation of the software specifications
+for web applications;
+- Be responsible for designing new application features and
+functionality;
+- Define both functional and technical requirements to facilitate design,
+development, testing, implementation and ongoing support;
+- Assist and support other team members on multiple projects;
+- Provide support and enhancements to existing production applications in
+a timely and accurate manner;
+- Play active role in defining and implementing best practices, standards
+and procedures including quality and delivery methodologies;
+- Ensure compliance with the documented software processes and procedures
+throughout the life cycle of software products;
+- Ensure quality and reliability of code from the development team by
+conducting a smoke testing and code reviews;
+- Propose and decide on technologies used;
+- Ensure consistency of design elements and interactive behaviors within
+individual pages/ forms/ components and across entire projects;
+- Train subordinates;
+- Share knowledge and lessons learned with team members."	Technical Lead
+"- Develop J2EE applications;
+- Be responsible for data-modeling and database design;
+- Implement user web interface technologies;
+- Interact with business owners, enterprise and system architects,
+developers, project managers and QA."	Technical Lead
+"•	Involved in Full STLC, Defect Reporting, making test Strategy/plan, Causal Analysis, Post Release Analysis-Analysis of Production Defects and Gap Analysis
+•	Managing QA Team, assign task to the Team and monitoring Team daily activity.
+•	Creating Requirement Traceability Matrix
+•	Involved in review and handover processes 
+•	Expertise in Analysis of Requirement documents, Design documents & Business Rules. 
+•	Experience in Mobile Testing [iOS, Android and Blackberry] for the applications functionality
+•	Involved in Training, Mentoring Team, and Reporting 
+•	Handling release implementation (post production testing)
+•	Guide project teams in issues related with Travel Domain
+•	Frequent interaction with client for requirements and their query solving sessions through various modes like mail or calls
+•	Resolve technical and functional problems of the team members.
+•	 Trained the team on Travel Domain skills "	Quality Assurance
+"- Be responsible for Business-modeling; 
+- Be responsible for Project Requirements analyzing; 
+- Be responsible for system architectural design; 
+- Develop technical and project documentations."	Architect
+"- Estimate/plan development projects in conjunction with other
+developers/experts;
+- Participate in all stages of the software development life-cycle;
+- Prepare documents and diagrams for programming work;
+- Develop and fine-tune the LinkGard software development methodology as
+well as consistently execute the methodology;
+- Help the organization improve ratings based on a capability-maturity
+model (i.e. CMMI);
+- Work with HR to recruit new team members based on current need;
+- Build up a list of in-house skills and resume-database for all
+employees that is available for review by management;
+- Identify growth and learn opportunities by:
+a) identifying conferences/seminars that can be attended by employees;
+b) identifying trainings to conduct locally by foreign or local
+experts;
+c) ordering books/magazines for developers to further their technical
+skills."	Manager
+"?	Testing Health4Me of various real mobile device (iPhone and Android)
+?	Create and test the functionality on Emulators and Simulators
+?	Created a document showing the guidelines How to set Android and IPhone Emulators and Simulators.
+?	Act as a SME of the whole mobile application and give App knowledge to external teams.
+?	Give suggestion to Business regarding Usability of the application on Smart phones which in result, accepted as a change request.
+?	Hosted defect tracking and Issue discussion calls.
+?	Integrate and communicate with onsite team members for technical and business requirements."	Quality Assurance
+"Specific tasks and key responsibilities include
+but are not limited to the following:
+- Translate design requirements and specifications into robust
+implementations;
+- Design, proto-type, develop and manage the technical aspects of the
+software;
+- Perform implementations in a timely fashion;
+- Perform quality assurance tasks, such as testing of the software
+products."	Software Engineer
+"- Lead the software development process;
+- Work with the Centers management team and lead specialist to capture
+functional and design requirements;
+- Develop project plans and system architecture in collaboration with
+the rest of the software development team;
+- Supervise a team of Flash, AJAX and LAMP developers;
+- Organize and implement testing, debugging and deployment."	Manager
+"Led group of developers in generating web based database applications. Generated SOW, system requirements, design specifications, data modeling, group management and customer liaison.
+Developed and maintained PL/SQL stored procedures, ETL and triggers for various academic web based applications.
+Supported academic end users and senior level management with data report requests.
+Installed and maintained Oracle and Microsoft SQL Server data base instances.
+Provided data modeling and data ETL for all web application development.
+Executed periodic data loads and provided support for various mission critical web based applications."	Database Administrator
+"- Lead the team;
+- Push team to deliver to its commitments;
+- Generate necessary team documentation;
+- Serve as a strong contributing technical member of the team;
+- Design test cases;
+- Perform manual and automated testing;
+- Design and develop automated test scripts;
+- Perform functional, performance, load, compatibility and usability
+tests of the website;
+- Identify, reproduce and report bugs;
+- Verify fixed defects and perform regression tests to ensure the
+quality of software releases;
+- Create all required test documentations."	Technical Lead
+"•	Manage the deliverables of offshore team (22 members) for design and development of new features of the product
+•	Involvement in Project Planning, Resource Management, Project Estimation and Scheduling
+•	Requirement Gathering, Analysis, Formulating and Reviewing Application specifications
+•	Design reviews, Code Reviews,  Test Plan Reviews
+•	Preparing Technical Specification Document, High Level Design Document, Detailed Design Document."	Manager
+"- Be responsible for web content administration;
+- Manage content of website by gathering information and integrating
+data from other departments;
+- Develop user interface and design standards, including improvement of
+features, to attract visitors to the website;
+- Work with company staff to identify, index, and make available
+knowledge resources;
+- Work with internal business and technical managers to fully understand
+content requirements to design and maintain an optimal interface;
+- Serve as expert consultant to staff on the development of web content
+in support of companys objectives;
+- Write, edit and create a variety of internal and external publications
+and marketing brochures for online publication;
+- Perform regular reviews of company web sites and other new media
+channels to ensure content accuracy, timeliness and relevance;
+- Be responsible for network automation management;
+- Be responsible for web site promotion;
+- Collaborate with team members on developing the procedural and
+technical means to add new platforms into the automation suite."	Manager
+"•	Requirement analysis.
+•	Helping in formulating the business case for the user stories. Individually designed the logical and physical structure of the Project.
+•	Product backlogs maintenance support to Product owner.
+•	Sprint backlogs creation.
+•	Sprint planning.
+•	Release planning.
+•	Optimizing sprint completion strategy based on the burn down and burn up charts.
+•	Weekly status reporting to stakeholders.
+•	Envisioning and rough TAD document preparation.
+•	Coordination among the team members and different teams.
+•	Peer code review and weekly team code review.
+•	User Stories review and sign-off from my side.
+•	FWT (Feature Walk Through) of the requirement to the stakeholders. 
+•	Changes requested by stakeholders during the FWT."	Technical Lead
+"•	Requirement analysis and helping out team members in estimating the project.
+•	Helping out team members in setting up POC and Pre-Production environment.
+•	Helping out team members in SIT, Regression Testing
+•	Helping out business in UAT
+•	Preparation of Cutover Plan of Go-Live
+•	Making Go-Live successful"	Architect
+"- Design and develop test systems; 
+- Troubleshoot and detect bugs in software programs."	Quality Assurance
+"- Make all necessary installations, updates and maintenance of existing
+servers and user workstations;
+- Provide uninterruptible work of users in office (30 users) and stores
+in Yerevan and regions (20 stores);
+- Organize new workplaces for new employers upon necessity;
+- Purchase needed equipment, computers, printers etc.;
+- Organize work with internet providers."	Manager
+"Database development:
+- Writing stored procedures and triggers;
+- Managing and tuning the Database performance."	Database Administrator
+"- Supervise the development of sophisticated applications for financial
+clients;
+- Understand the client requirements and design their implementation in
+the .NET platform;
+- Organize and lead the collaboration of your team with the team of
+quantitative analysts;
+- Serve as the liaison between your team and development teams in other
+company locations;
+- Provide leadership and guidance to your team of software developers,
+ensure their continued professional growth;
+- Organize and maintain quality controls to ensure the highest
+production standards; 
+- Manage the team growth and recruitment of new specialists."	Technical Lead
+"- Improve all aspects of the technical development cycle, including
+functional and technical product specifications, scrum story breakdown,
+testing and quality assurance, release and management and version
+control;
+- Foster a results oriented, continuous improvement environment based on
+Agile principles;
+- Assist US development teams with the creation of the best PM software
+on the market."	Manager
+"- Coordinate physical changes to databases applying knowledge of
+database management systems, using JDBC/ODBC to call database
+procedures;
+- Install, configure, administer and troubleshoot information systems
+that incorporate Microsoft Back Office products including SQL Server
+2000 and SQL Server 2005;
+- Analyze programs, company IT policies, and operational needs;
+- Analyze problems, identify alternative solutions, and implement
+recommendations in support of district goals;
+- Communicate clearly and concisely, both orally and in writing;
+- Establish and maintain cooperative working relationships with those
+contacted in the course of work."	Database Administrator
+"?	Development of front-end view components i.e. slot machine reel with animation, interactive Control buttons, winning combination elements.
+?	Interaction with server and send the user’s Interaction Data to server using http methods     and Display the possible combinations of winning, money/chips validation which get return by the server response.
+?	Development of Separate Bonus-module/mini-game which loaded when users get Bonus."	Software Engineer
+"- Develop future technological trends;
+- Plan and analyze the work;
+- Perform operational work;
+- Provide technical support;
+- Choose development environment, programming language and the necessary
+software;
+- Recommend applied problems to junior developers, monitoring their
+implementation."	Technical Lead
+"- Design and implement Java/J2EE based, database driven web
+application;
+- Design and develop software components that fits into layered
+application framework, including user interface, business logic and
+back-end service/ data access components;
+- Participate in design discussions, code reviews and project related
+team meetings;
+- Work with other engineers, Product Management and QA teams to develop
+innovative solutions that meet business needs with respect to
+functionality, performance, scalability, reliability and realistic
+implementation schedules."	Architect
+"- Provide software quality assurance (SQA) of Integrated Circuits
+design;
+- Make software quality testing with some guidance from senior level
+managers and other engineers."	Quality Assurance
+"The responsibilities include but are not limited
+to the following:
+- Local Area Network Administration and Maintenance;
+- Firewall Management and Antivirus Maintenance;
+- User Administration and Database Maintenance;
+- Web and Mail Server Management and Maintenance;
+- Intranet Management and Maintenance;
+- Web Site Maintenance and Content Management;
+- Office Productivity Applications Maintenance;
+- Workplace Software and Hardware Maintenance and Upgrade;
+- Automation Systems Integration and Maintenance."	Manager
+To participate in projects	Software Engineer
+"- IC design software quality assurance (SQA);
+- Software quality testing with some guidance from senior level managers
+and other engineers."	Quality Assurance
+"Provides database design and management support for all GIS energy projects ranging from thousands to millions in revenue. Improved database application performance by monitoring and tuning databases to optimize storage and minimize server processing.
+
+Created, documented, and integrated GIS data models and data standards using the base APDM, PODS, and AETM.
+Successfully upgraded SQL Server, ArcSDE, and ArcLicense Manager Applications across multiple servers with minimal production impact.
+Tested, implemented, and supported database replication including both ArcSDE and SQL Server Replication types in an editing environment.
+Solved 85% of all ArcSDE related help desk tickets within a 24-48 hour time span.
+Documented GIS infrastructure information including server type, operating system, DBMS build, and GIS application build."	Database Administrator
+"- Manage and supervise a team of dedicated professionals responsible for
+the implementation of quality improvement activities, including provision
+of technical assistance to inform and refine quality improvement
+strategies, including introduction of evidence-based medicine principles,
+clinical practice guidelines, quality assurance and quality improvement
+strategies at national, marz, and health facility-levels;
+- Build on and enhance achievements in facility-level quality improvement
+and health information systems, specifically tackling NCD/ prevention
+issues, MCH/ RH, emergency care, etc.;
+- Provide technical assistance to develop capacity building approaches
+and training packages for training institutions and health care
+professionals;
+- Provide inputs to draft laws, policies, strategies and regulations as
+required;
+- Provide technical assistance to the Ministry of Health to introduce
+workforce planning tools and mechanisms;
+- Maintain strong and cohesive collaboration with other teams of the
+project as well as international organizations, MOH and other key
+counterparts, to jointly agree on strategies and implement activities in
+a way that increases local ownership and sustainability;
+- Maintain excellent relationships and promote effective collaboration
+with health sector organizations/ institutions, as well as donors,
+development partners, and other USAID projects;
+- Develop, provide overall technical guidance, inputs and ongoing support
+in all technical deliverables pertinent to the QI/ QA component
+activities of the project, per project SOW and programmatic strategies;
+- Provide technical support and leadership on planned STTAs for the QI/
+QA component of the project, including drafting SOWs, maintaining
+communication and relevant paperwork;
+- Prepare project reports, including workplans, quarterly and annual
+progress reports and progress against Performance Management Plan."	Technical Lead
+"•	Involved in the analyzing business requirements and current system functionality and 
+•	Conducted workshops and interviews for business users to formulate work strategies. 
+•	Business case formulation and analyzing the impact on overall solution delivery to management.
+•	Expertise in project management, effort estimation using use case breakdown analysis.
+•	Involved in knowledge transfer and hand holding to the offshore team for managing development environment.
+•	Reviewing and managing all the necessary documentation required for the project work.
+•	Involved in implementation of the complete solution like task allocation, team managing and tracking. 
+•	Client SDN (Software Delivery Note) and UAT (User Acceptance Test).
+•	Involved in training the internal stake holders for TARGET.
+"	Technical Lead
+"•	Interface with customer and be the single point of contact for all requirements
+•	Creation of demo, POC and presentations
+•	Estimating implementation effort
+•	Conducting requirement gathering meetings and interviews
+•	Writing and editing functional documents including Scope of work, Software Requirement Specifications, Business Process Models, Use Cases etc.
+•	Managing complete project life cycle
+•	Built teams, defined roles, managed resources, coordinated meetings, evaluated risks & issues
+•	Facilitated team collaboration & fostered communication; created and managed action item databases
+•	Coordinated critical activities, managed engagements & expectations, secured time-critical approvals
+•	Overall responsibility for project profitability, resource utilization, recruitment and retention"	Manager
+"- Improve all aspects of the technical development cycle, including
+functional and technical product specifications, scrum story breakdown,
+testing and quality assurance, release and management and version
+control;
+- Foster a results oriented, continuous improvement environment based on
+Agile principles;
+- Assist US development teams with the creation of the best PM software
+on the market."	Manager
+"- Assist the program management in implementing the Program component
+related to the development of the State Water Cadastre Information
+System;
+- Refine and utilize water use guidelines and associated regulations;
+- Assist in designing and populating databases based on MS Access;
+- Design and build database user interface and data entry forms;
+- Design and construct database reports;
+- Conduct comprehensive populating of established cadastral databases;
+- Design and construct data import and export utilities;
+- Assist in GIS-based mapping."	Database Administrator
+"Working with US representatives (business
+representatives, as well as development team members), cooperating with
+customer representatives, fine-tuning requirements, development of
+design of system key components, management of remote development team
+in Russia."	Technical Lead
+"- Be responsible for Business-modeling; 
+- Be responsible for Project Requirements analyzing; 
+- Be responsible for system architectural design; 
+- Develop technical and project documentations."	Architect
+"- Be responsible for planning, preparing, reporting of test processes as
+well as organizing the process of test automation;
+- Lead and direct the work of others, if necessary;
+- Be responsible for installation tests of applications, automated
+framework development for white-box analysis of sources and
+configuration management;
+- Participate in development of new test tools or enhancement of already
+existing ones;
+- Control the test activities;
+- Report to the QA Manager and others."	Quality Assurance
+"- Ensure maximum availability of computer systems throughout the
+department;
+- Be responsible for the provision of IT infrastructure services
+including desktop applications, Local and/ or Wide area networks, IT
+security and telecommunications;
+- Be responsible for development and implementation of new systems;
+- Work with senior management to propose, agree and deliver IT service to
+define Service Level Agreements;
+- Be responsible for IT hardware, software and maintenance procurement;
+- Develop and maintain a disaster recovery plan;
+- Develop and control the IT security policy."	Manager
+"- Make all necessary installations, updates and maintenance of existing
+servers and user workstations;
+- Provide uninterruptible work of users in office (30 users) and stores
+in Yerevan and regions (20 stores);
+- Organize new workplaces for new employers upon necessity;
+- Purchase needed equipment, computers, printers etc.;
+- Organize work with internet providers."	Manager
+"- Design, develop, introduce and assist technical project staff to use
+the M&E database and M&E management information system. Design and
+modify software for project monitoring and evaluation, and associated
+statistical assessments to supporting intervention refinement, and
+reporting needs of the project;
+- Work with the technical Monitoring and Evaluation Team and with
+project Component teams, to create efficient analytic systems and data
+collection and data management, implement and maintain quality control
+in data management and maintain and help use project databases as needed
+for projects decision-making;
+- Work with project technical staff in the wider process of coordination
+and integration of information systems in/ with the primary healthcare
+level;
+- Participate together with the wider Project IT staff-pool in the
+creation and maintenance of office network (intranet) and IT solutions
+in office, and interfacing with offices and partners in the field;
+- Provide training to project staff, in use of database resources,
+software and methods;
+- Perform other duties as assigned by the Chief of Party and/ or Team
+Leader."	Database Administrator
+"- Software quality assurance in accordance with developed requirements;
+- Commitment to meeting deadline according to a plan;
+- Keeping rules of team work on a project;
+- Improving skills, learning new tools and testing technologies."	Quality Assurance
+"- Assist the administration team in development and management of new
+and existing DB applications;
+- Manage the Windows Servers."	Database Administrator
+"- Create designs for (complex) analog and mixed-signal circuitry;
+- Contribute in realizing analog systems from the design track till the
+realization on board-level;
+- Execute the validation and define the qualification of the hardware;
+- Characterize, model and optimize analog circuits and building blocks in
+existing CMOS technologies;
+- Mentor junior engineers and help develop their skills;
+- Lead contact in the communication."	Technical Lead
+"
+•	Designing the test plans as per the defined scenarios.
+•	Creating and configuring the test data.
+•	Test case writing and execution on ITIM.
+•	Regular interaction with the onsite team for status updates and issue resolution.
+•	Hands on experience of deploying identity solutions using IBM Tivoli Identity Manager.
+•	User provisioning and de provisioning in IBM Tivoli Identity Manager.
+•	Managed users, their accounts and passwords in IBM Tivoli Identity Manager.
+•	Executed Reconciliation and Life Cycle Processes in IBM Tivoli Identity Manager.
+•	Executing the various client defined scenarios for the user and verifying their impact on the security of the web application.
+•	Currently leading the offshore team of 3 people. 
+•	Bug tracking and version control.
+•	Regular client interaction for status updates and issue resolution.
+•	Prepared configuration files.
+•	Data validation of values pulled by the parser."	Quality Assurance
+"- Rendering technical assistance to Database Management Systems;
+- Realization of SQL servers maintenance activities: back-up and
+replication;
+- Participation in designing of software development projects."	Software Engineer
+"•	Sprint planning, daily stand up meeting, sprint review and retrospection
+•	Ensuring that all the user stories are done at the end of every sprint
+•	Co-ordination with Functional Team for requirement gathering
+•	Ensuring QA validation and getting UAT signoff on time for production promotion
+•	Ensuring successful delivery of the project as per scope in SOW and on time"	Manager
+"- Develop software according to requirements;
+- Take part in gathering requirements;
+- Take part in system architecture development;
+- Participate in planning;
+- Complete work according to deadlines;
+- Take part in mentoring other developers professional skills."	Architect
+"Informix and/or Oracle database administration,
+installation, backup and recovery, performance tuning, SQL optimization,
+maintenance."	Database Administrator
+"- Create designs for (complex) analog and mixed-signal circuitry;
+- Contribute in realizing analog systems from the design track till the
+realization on board-level;
+- Execute the validation and define the qualification of the hardware;
+- Characterize, model and optimize analog circuits and building blocks
+in existing CMOS technologies;
+- Mentor junior engineers and help develop their skills;
+- Lead contact in the communication."	Technical Lead
+"As a QA engineer with Linux skills you will be
+responsible for the installation testing, test script development and
+more QA related work. You will also work early in the development phase
+and your input is important for the development team."	Quality Assurance
+"Created new databases, involving importing and exporting: installing and configured database software for Oracle Application development environment.
+Responsible for Oracle 9i logical and physical databases design, implementation, and maintenance
+Reorganized databases and sized database objects to meet standards and improve performance 30%
+Handled database server tuning, application tuning, maintaining documentation, capacity planning and database security"	Database Administrator
+"- Design, develop and maintain automated tests;
+- Run tests and record test results;
+- Identify, reproduce and report defects;
+- Verify defect fixes;
+- Create and maintain test plans from requirements and design
+documents;
+- Maintain other test documentation."	Quality Assurance
+"- Lead the software development process;
+- Work with the Centers management team and lead specialist to capture
+functional and design requirements;
+- Develop project plans and system architecture in collaboration with
+the rest of the software development team;
+- Supervise a team of Flash, AJAX and LAMP developers;
+- Organize and implement testing, debugging and deployment."	Manager
+"- Improve all aspects of the technical development cycle, including
+functional and technical product specifications, scrum story breakdown,
+testing and quality assurance, release and management and version
+control;
+- Foster a results oriented, continuous improvement environment based on
+Agile principles;
+- Assist European development teams with the creation of the best PM
+software on the market."	Manager
+"- Be responsible for planning, preparing, reporting of test processes as
+well as organizing the process of test automation;
+- Lead and direct the work of others, if necessary;
+- Be responsible for installation tests of applications, automated
+framework development for white-box analysis of sources and
+configuration management;
+- Participate in development of new test tools or enhancement of already
+existing ones;
+- Control the test activities;
+- Report to the QA Manager and others."	Quality Assurance
+"•	Responsible for designing/maintaining application architecture of all Jetstar commercial systems projects.
+•	Creating, Reviewing and managing all the necessary technical documentation required for the project work.
+•	Providing technical leadership to development team, involved in development of framework/ complex common functionalities and code reviews.
+•	Technical Presales support, responding to RFPs and preparing SOWs."	Architect
+"- Design and document custom software solutions which include database
+models, software architecture, process flow, and web navigation; 
+- Produce and maintain accurate documentation and code comments on all
+aspects of software architecture including functionality, logical view
+and processes, hardware and operating system environment, interface with
+other systems, etc.; 
+- Work with project leader to establish task schedule, subsystem
+definition, task milestones, technical goals, and estimated effort;
+- Mentor the development teams through hands-on assistance as well as
+formal and informal training;
+- Review and evaluate the architecture documentation, design and
+implementation of the software. Conduct and participate in peer code and
+documentation reviews."	Architect
+"- Deploy, develop and maintain the websites for management and exchange
+of product informations
+- Programming in HTML and using PHP scripts/programs with MySQL 	
+- Maintaining security of the sites, developing and implementing an
+access control system enforcing different levels of access."	Software Engineer
+"As a Project Manager my key responsibilities are to ensure the following are carried out in accordance with the defined expectations - 
+·	Progress - deliverables are being completed within the baselined time scales 
+·	Cost - deliverables are being completed within the baselined cost plan 
+·	Quality - deliverables are being completed to defined expectations, first time 
+·	Performance (Value) - progress is being earned for the expected cost 
+·	Cash flow - net project cash flow is being achieved as the defined expectations 
+·	Regulatory - all required statutory and regulatory conditions are being met 
+·	Reporting - regular and timely reporting of project progress to the sponsors 
+·	Risk - to proactively manage foreseen project risk, mitigating as necessary 
+·	Change - managing changes to the project without unduly affecting the stated objectives and benefits"	Manager
+"- Supervise the development of sophisticated applications for financial
+clients;
+- Understand the client requirements and design their implementation in
+the .NET platform;
+- Organize and lead the collaboration of your team with the team of
+quantitative analysts;
+- Serve as the liaison between your team and development teams in other
+company locations;
+- Provide leadership and guidance to your team of software developers,
+ensure their continued professional growth;
+- Organize and maintain quality controls to ensure the highest
+production standards; 
+- Manage the team growth and recruitment of new specialists."	Technical Lead
+"•	Implemented rich and user friendly UI using Bootstrap and HTML5 and CSS3.
+•	Implemented various classes and plug in of Bootstrap.
+•	Explored and Managed Google api.
+•	Dynamically Populate Data to UI and applied filters using jQuery.
+•	Implemented share functionality.
+•	Create responsive application by using media query and CSS3. 
+•	Provide support on all browsers, tablets and smart phones.
+•	Provided support and Implemented google Map functionality in other projects also.
+•	Implement various form using Bootstrap, HTML and jQuery."	Software Engineer
+"- Manage and supervise a team of dedicated professionals responsible for
+the implementation of quality improvement activities, including provision
+of technical assistance to inform and refine quality improvement
+strategies, including introduction of evidence-based medicine principles,
+clinical practice guidelines, quality assurance and quality improvement
+strategies at national, marz, and health facility-levels;
+- Build on and enhance achievements in facility-level quality improvement
+and health information systems, specifically tackling NCD/ prevention
+issues, MCH/ RH, emergency care, etc.;
+- Provide technical assistance to develop capacity building approaches
+and training packages for training institutions and health care
+professionals;
+- Provide inputs to draft laws, policies, strategies and regulations as
+required;
+- Provide technical assistance to the Ministry of Health to introduce
+workforce planning tools and mechanisms;
+- Maintain strong and cohesive collaboration with other teams of the
+project as well as international organizations, MOH and other key
+counterparts, to jointly agree on strategies and implement activities in
+a way that increases local ownership and sustainability;
+- Maintain excellent relationships and promote effective collaboration
+with health sector organizations/ institutions, as well as donors,
+development partners, and other USAID projects;
+- Develop, provide overall technical guidance, inputs and ongoing support
+in all technical deliverables pertinent to the QI/ QA component
+activities of the project, per project SOW and programmatic strategies;
+- Provide technical support and leadership on planned STTAs for the QI/
+QA component of the project, including drafting SOWs, maintaining
+communication and relevant paperwork;
+- Prepare project reports, including workplans, quarterly and annual
+progress reports and progress against Performance Management Plan."	Technical Lead
+"- Establish the needs of users; 
+- Plan dataflows for a new or revised database; 
+- Map out the 'conceptual design' for a planned database in outline; 
+- Consider both 'back end' organisation of data and 'front end'
+accessibility for end users; 
+- Refine the 'logical design' so that it can be translated into a
+specific data model; 
+- Further refine the 'physical design' to meet system storage
+requirements; 
+- Test new systems; 
+- Maintain data standards, including adherence to the Data Protection
+Act; 
+- Write database documentation, including data standards, procedures and
+definitions for the data dictionary ('metadata'); 
+- Controll access permissions and privileges; 
+- Train users; 
+- Meet users' access requirements and resolve their problems; 
+- Ensure that storage, archiving, backup and recovery procedures are
+functioning correctly; 
+- Be responsible for capacity planning; 
+- Work closely with IT project managers, database programmers and web
+developers; 
+- Provide technical support for outdated 'legacy' systems; 
+- Communicate regularly with technical, applications, and operational
+staff, to ensure the database integrity and security; 
+- Commission and install new applications;
+- Use monitoring and troubleshooting utilities to effectively diagnose
+problems."	Database Administrator
+"Specific tasks and key responsibilities include
+but are not limited to the following:
+- Translate design requirements and specifications into robust
+implementations;
+- Design, proto-type, develop and manage the technical aspects of the
+software;
+- Perform implementations in a timely fashion;
+- Perform quality assurance tasks, such as testing of the software
+products."	Software Engineer
+"- Be responsible for business-modeling;
+- Be responsible for project requirements analyzing;
+- Be responsible for system architectural design;
+- Develop technical and project documentations."	Architect
+"- Perform daily IT operations;
+- Administrate local network;
+- Work with database;
+- Make reports related to the daily sales."	Manager
+"·	Leading and facilitating the daily Scrum Meetings, provide daily status of team and highlight any blocker/issues
+·	Facilitating release Planning Meeting, Sprint Planning Meeting
+·	Mentoring team on process and new technologies
+·	Task assignment and tracking
+·	Ensuring that team members execute their deliverables 
+·	Documenting and communicating overall project status and Weekly Status Reports
+·	Delivery and implementation 
+·	Onsite/Offshore co-ordination
+·	POCs for upcoming/new projects
+·	Effort estimations	
+·	Requirement Analysis and Design
+·	Impact analysis of change requests 
+·	Facilitating and leading bug prioritizing meetings"	Technical Lead
+"- Ensure Oracle systems uninterrupted availability; 
+- Be responsible for installation, tuning, optimizing and
+troubleshooting Oracle instances; 
+- Be responsible for SQL*Loader, Imports/ Exports, Backup and Recovery
+strategies monitoring and implementation; 
+- Lead server and PC configuration in reference to SQL*Net; 
+- Prepare SQL queries and reports."	Database Administrator
+"Key member of the Centre  of Excellence  team which specializes in designing, architecting and delivering projects across middleware domain.
+•	Work with the BD team to complete proposal efforts including project scoping.
+•	Create & execute project work plans & revise as appropriate to meet changing needs & requirements.
+•	Conduct risk analysis & prepare mitigation strategies where necessary.
+•	Coordinate multidisciplinary activities to ensure that the project deliverable are met.
+•	Identify  resources  needed  &  work  with  section  heads  to  assign  individual responsibilities.
+•	Manage day-to-day operational aspects of a project & scope.
+•	Review deliverable prepared by team before passing to client.
+•	Effectively apply methodology & enforce project standards.
+•	Conduct  project  review  meetings  with  clients  &  prepare  agendas,  meeting minutes & project summaries.
+•	Hold regular status meetings with project team.
+•	Ensuring the adherence to the delivery dates."	Technical Lead
+"- Configure, maintain, and install new workstations, laptops, and
+servers 
+- Troubleshoot system and network related problems 
+- Support internal users, systems, software, and hardware 
+- Administer NT \ Windows 2000 Systems 
+- Develop and maintain Backup and Disaster Recovery Strategy 
+- Purchase new equipment and software 
+- Maintain software and hardware inventory 
+- Administer and maintain phone system 
+- Design and develop the Web site 
+- Training and teaching the students of Microsoft Office software"	Software Engineer
+"- Define quality and design requirements for entry and outgoing data, as
+well as other traits of reports presented by entities accountable to the
+FIU according to the Law on Anti-Money Laundering and Combating
+Terrorist Financing (herein AML/CFT);
+- Input data into databases, maintain operation ability of centralized
+databases;
+- Analyse technical eligibility of reported data and identify mismatches
+in reports; 
+- Maintain availability of needed data in analyzable format;
+- Provide analyst with data needed in usable formats;
+- Responsible for technical maintenance and development of data formats
+and databases, also on the basis of analysis of international experience
+conducted;
+- Provide professional assistance and trainings to stakeholders in the
+field of AML/CFT respective to his/her proficiency field."	Database Administrator
+"- Develop a database according to the specifics and requirements of the
+program;
+- Supervise the cataloguing of information;
+- Provide technical management of the centers equipment and maintenance
+of the Internet and other IT facilities; 
+- Manage the database, including producing a monthly summary from the
+database for submission to the coordinator;
+- Perform any other duty as assigned by the project management team and
+centre coordinator."	Database Administrator
+"- Manual testing of web applications according to available
+documentation;
+- Creation and execution of test-cases (manual and automated), other
+test deliverables preparation;
+- Assistance to Test Automation team in design and coding of test
+automation suites when needed."	Quality Assurance
+"- Supervise the development of sophisticated applications for financial
+clients;
+- Understand the client requirements and design their implementation in
+the .NET platform;
+- Organize and lead the collaboration of his/her team with the team of
+quantitative analysts;
+- Serve as the liaison between his/her team and development teams in
+other company locations;
+- Provide leadership and guidance to his/her team of software
+developers, ensure their continued professional growth;
+- Organize and maintain quality controls to ensure the highest
+production standards; 
+- Manage the team growth and recruitment of new specialists."	Technical Lead
+"?	Implementing multi activity purchase functionality in single itinerary
+?	Build admin tool for marketing team to create customized theme based pages
+?	Adding new functionalities as test and learns to improve the end user experience
+?	Simplifying existing processes and framework of unit testing using TestNG
+?	Providing support on the live site issues
+?	Responsive UI development (JSP, HTML, Tag Libraries, CSS, JavaScript, JQuery, Backbone.js, Handlebar Template)"	Software Engineer
+"?	Consuming RESTful web services
+?	Implementing backbone views
+?	Implementing backbone models and collections
+?	Implementing the templates using Handlebars
+?	Writing the CSS for views"	Software Engineer
+"The key elements of the role are full life cycle
+product development working in a technically strong team through
+requirements gathering, architecture, development and release. The
+candidate is required to work closely with the other technical members
+of the Lycos Communities teams."	Software Engineer
+"- Analyze designs and develop architectures for software systems;
+- Deliver optimized application architecture by translating business
+requirements into technical attributes;
+- Understand business and technical goals and constraints;
+- Articulate solution vision;
+- Prepare alternative approaches and specify components and interfaces."	Architect
+"- Test a high end banking web application;
+- Develop testing strategies;
+- Document errors;
+- Deploy functional code."	Quality Assurance
+"The key elements of the role are full life cycle
+product development working in a technically strong team through
+requirements gathering, architecture, development and release. The
+candidate is required to work closely with the other technical members
+of the Lycos Mail team in Yerevan as well as in Paris on new and
+challenging projects."	Software Engineer
+"•	Offshore Polaris Chennai team project management using AGILE methodology.
+•	Reviewing and managing all the necessary documentation required for the project work.
+•	Involved in implementation of the complete solution like task allocation, team managing and tracking.
+•	Involved in hands on development of complex functionalities and road blocker bug fixes. 
+•	Client SIT (System Integration Testing) and UAT (User Acceptance Test). "	Technical Lead
+"- Software development 
+- Act as a mentor within the team 
+- Code review within the group"	Software Engineer
+"?	Played role of technical lead responsible for the design, development and implementation of web-based computing systems using .Net platform. Assisted Project Manager in managing project workload, schedules and deliverables. 
+?	Contributing & delivering various fix bid projects for key client like American Honda Motors.
+?	Part of technical panel for hiring senior technical resources (MS technologies) at Organization level. 
+?	Part of various audit programs and assessment team for CMM level 5 certifications."	Technical Lead
+"As a QA engineer with Linux skills you will be
+responsible for the installation testing, test script development and
+more QA related work. You will also work early in the development phase
+and your input is important for the development team."	Quality Assurance
+"- Manage the team;
+- Define, maintain, oversee and enforce engineering processes;
+- Provide project leadership for key projects;
+- Train and mentor project leaders;
+- Take responsibility for release dates, milestones and budgets."	Manager
+"•	Project plans and phase wise specific estimates to reengineer, redesign of Business operations, screens, reports, jobs/batch processes and database to develop system to overcome their legacy system drawbacks.
+•	Dealt with business team to collect requirements. Developed solution design and Instrumental in streamlining the development process, enforcing coding standards, monitoring code quality / coverage through automated processes and automating build / deployment process.
+•	Handled Peer-reviews, validation of the technical architecture/specifications, SQA project audits & all CMP defined quality processes & documentations."	Architect
+"- Create, manage and update project related documentation;
+- Participate in all stages of the software development life-cycle;
+- Schedule, conduct and document project review meetings;
+- Meet established project deadlines;
+- Manage project on a day-to-day basis;
+- Keep project on track;
+- Ensure team awareness on the project goals and needs;
+- Contribute to improvement of development processes;
+- Communicate effectively with the external Project Managers and Local
+Management."	Manager
+"- Administrater the whole IS infrastructure of all TO (tobacco
+organization) Armenia offices and DCs;
+- Perform the disaster recovery, system and user administration of
+Exchange Server, Active Directory and other Windows 2003 server based
+systems;
+- Manage the end-user relations and non-business application
+requirements of all TO Armenia offices and DCs;
+- Interact with the rest of the Group IS and third party vendors for
+operational resolutions;
+- Administer the locally hosted application databases such as MS SQL;
+- Manage IS infrastructure and Helpdesk issues and report/ escalate to
+IS/Market Manager;
+- Perform the local and Group IS procedures to ensure proper support and
+control levels;
+- Execute/ coordinate preventive and active maintenance for the IS
+equipment of all TO Armenia offices;
+- Advise/ consult infrastructure, system and IS environment solutions to
+improve the cost, quality and support structure and implement them."	Manager
+"•	Architecture and Design of WPSOnline and WPSClient applications. Design and implementation of centralization of serial numbers and model numbers, Auto Sync up module
+•	End to end implementation and deployment of various WPSOnline modules. Relevant use of design patterns to support different yet similar product lines (eToken, SafeWord, HASP)
+•	Requirement gathering and analysis. Assistance in Project schedule generation and Updation."	Software Engineer
+"- Test the quality of raw materials and final product according to the
+established norms and quality standards as per assigned schedule;
+- Fill in the relevant register with approprate test results as required
+by the internal procedures;
+- Inform the QA Manager and Production Supervisor about any deviations
+from quality standards and norms."	Quality Assurance
+"- Support the project manager in developing the projects schedule and
+assisting in project coordination;
+- Work with developers to define the work breakdown structures for the
+technical activities associated with each project and provide accurate
+time-estimates for assigned tasks;
+- Act as liaison between the project managers and the web developers;
+- Act as a technical reference for the team by providing technical
+guidance;
+- Design, develop and implement client-facing and internal web
+applications using HTML, DHTML, CSS, JavaScript, AJAX, jQuery and
+ASP.NET;
+- Revise and update printed and online marketing materials under lead
+designer's guidance;
+- Slice and optimize graphics for GUI development;
+- Architecture analysis and documentation of the software specifications
+for web applications; 
+- Responsible for designing new application features and functionality;
+- Define both functional and technical requirements to facilitate design,
+development, testing, implementation and ongoing support; 
+- Assist and support other team members on multiple projects;
+- Provide support and enhancements to existing production applications in
+a timely and accurate manner;
+- Play active role in defining and implementing best practices, standards
+and procedures, including quality and delivery methodologies;
+- Ensure compliance with the documented software processes and procedures
+throughout the life cycle of software products;
+- Ensure quality & reliability of code from the development team by
+conducting a smoke testing and code reviews;
+- Propose and decide on technologies used;
+- Ensure consistency of design elements and interactive behaviors within
+individual pages/ forms/ components and across entire projects;
+- Train subordinates;
+- Share knowledge and lessons learned with team members."	Technical Lead
+"Responsibilities include:
+- Design and development of scalable, data-intensive infrastructure
+- Architecture design, database schema design, software design and
+implementation
+- Add support for multiple image formats (e.g. PDF) and page layout
+description"	Software Engineer
+"?	Development of Dynamic Websites / Gallery application in Flash, Actionscript 3.0/2.0
+?	Using Http methods to send data to server 
+?	Updating user interfaces/pages on response of server 
+?	Development of Reusable Component"	Software Engineer
+"- Test the quality of raw materials and final product according to the
+established norms and quality standards as per assigned schedule;
+- Fill in the relevant register with approprate test results as required
+by the internal procedures;
+- Inform the QA Manager and Production Supervisor about any deviations
+from quality standards and norms."	Quality Assurance
+"Will be responsible for installation and
+maintenance of IT equipment, network systems, and computers in the
+projects offices, and for the design and maintenance of databases
+relating to business contacts, monitoring and evaluation of project
+activities, and other related duties."	Database Administrator
+"Informix and/or Oracle database administration,
+installation, backup and recovery, performance tuning, SQL optimization,
+maintenance."	Database Administrator
+"Successfully lead a team of four personnel in supporting the Configuration Management, Product Definition, and various other engineering, quality, and manufacturing disciplines, to resolve helpdesk related incidents. Issues associated to resolution of incidents addressed software, data, and customer limitations
+
+Ensure all incidents submitted are reviewed, researched and resolved per the business processes (a.k.a. standard work instructions) of the Systems Design and Components Integration business unit at Pratt and Whitney.
+Effectively use the ACE (Lean and Six Sigma) operating system tools to eliminate unnecessary spending, identify areas for improvement (team performance), and enhance productivity.
+Provide system level testing and support as required f or new builds/software upgrades to be implemented in the database.
+Used UNIX, Solaris and AIX, to execute utilities provided by the software vendor support group to modify data, and perform basic administrator functions.
+Perform basic project management skills to ensure successful planning and execution of all projects assigned."	Database Administrator
+"Specific tasks and key responsibilities include
+but are not limited to:
+- Design and implement RDBMS schemas and data access components;
+- Design and fine-tune the physical data model for an application;
+- Create the physical databases for an application;
+- Design and code software components for web applications;
+- Troubleshoot and fine-tune databases performance in production to
+ensure maximum performance;
+- Develop integration, replication and backup/ restoration strategies;
+- Interact with technical managers to facilitate the smooth flow of all
+technical information."	Architect
+"- Be responsible for web content administration;
+- Manage content of website by gathering information and integrating
+data from other departments;
+- Develop user interface and design standards, including improvement of
+features, to attract visitors to the website;
+- Work with company staff to identify, index, and make available
+knowledge resources;
+- Work with internal business and technical managers to fully understand
+content requirements to design and maintain an optimal interface;
+- Serve as expert consultant to staff on the development of web content
+in support of companys objectives;
+- Write, edit and create a variety of internal and external publications
+and marketing brochures for online publication;
+- Perform regular reviews of company web sites and other new media
+channels to ensure content accuracy, timeliness and relevance;
+- Be responsible for network automation management;
+- Be responsible for web site promotion;
+- Collaborate with team members on developing the procedural and
+technical means to add new platforms into the automation suite."	Manager
+"- Perform daily IT operations;
+- Administrate local network;
+- Work with database;
+- Make reports related to the daily sales."	Manager
+"The responsibilities include but are not limited
+to the following:
+- Local Area Network Administration and Maintenance;
+- Firewall Management and Antivirus Maintenance;
+- User Administration and Database Maintenance;
+- Web and Mail Server Management and Maintenance;
+- Intranet Management and Maintenance;
+- Web Site Maintenance and Content Management;
+- Office Productivity Applications Maintenance;
+- Workplace Software and Hardware Maintenance and Upgrade;
+- Automation Systems Integration and Maintenance."	Manager
+"•	Work migration, Transition and support services to clients across globe for TELentice (a digital Media product).
+•	SPOC for GDC team & Reporting to Delivery Manager - Oceania region.
+•	Coordinating with internal/external customers for successful business operations and implementing procedures and service standards for business excellence.
+•	Defining & managing requirements working with the business users and stakeholders in project lifecycle.
+•	Resource Planning & Management, Conducting internal process reviews and SQA project audits for ensuring strict adherence to CMP defined quality processes & documentations.  "	Architect
+"- Software architecture development.
+- Writing documentation. 
+- Working according to software requirements."	Architect
+"•	Comprehensive knowledge of the Complete Software Development Life Cycle (SDLC) and identifying the requirements and defining the business rules to user requirements.	
+•	Designed the complete solution using 3-tier Architecture model
+•	Successfully followed agile development steps starting from requirement to deployment.
+•	Experience in using Data Grid controls for displaying dynamically data.
+•	Extensive experience in using State management both the client side and server side.
+•	Azure SDK 1.8/2.5, Web Role, Worker Role
+•	MVC 2.0/4.0
+•	Extensively used Ajax to reduce the time for user request by using different controls under it. 
+•	Extensively used WCF framework to build applications that inter-communicate and implement services using Service Contract and Data Operation. Deployed on PaaS Azure with Service Bus.
+•	Developed SOAP based Middleware using Web Services to read XML files which is to provide communication between data access layer and backend database. 
+•	Used XML files for reading the static data and also simultaneously reduce the load on the database server.
+•	Implemented web services with SOA using WCF for passing data to multiple platforms.
+•	SQL Azure, DMVs
+•	Worked with ASP.NET Web Forms, Web Services, State Management, Azure Managed Cache and configuring optimizations for securing the web application. 
+•	Used various ASP .NET server controls and data controls. Customized .Net Login Controls to implement authentication and authorization. 
+•	Created the UI layers and web pages, and integrated them to maintain the performance of data flow and data integrity using ASP.NET User Controls, Web Server Controls.
+•	Developed and Implemented Master pages in the application for designing Presentation Tier (web pages). 
+•	Applied CSS for a consistent look and feel for Page design in the application.
+•	Worked on AJAX to populate user interface controls such as drop down list and generate warning messages to enhance overall UI experience.
+•	Involved in developing the Business Layer in C#.NET, where all the Business Objects are written in developing the whole Application. 
+•	Designed and developed various abstract classes, interfaces, classes to construct the business logic using C#.NET. 
+•	Used JavaScript functions to implement complex Business Rules and Validation of front end forms.
+•	Expert in using JavaScript and ASP.NET validation controls for performing Form Validations
+•	Worked on web pages and business objects using JavaScript, XML in a mixed ASP.NET environment. 
+•	Extensive used on UI development experience using HTML, DHTML, CSS, XML, JavaScript and JQuery.
+•	Developed Custom Controls and Utilized JavaScript to create Client-side validations that greatly decreased processing time and resource consumption, freeing resources for use by other applications and speeding up processing times.
+•	Experience with Data Accessing including using Data Adapter, Data Reader and Dataset in ADO.NET.
+•	Rendered XML document to an HTML using XSL and XSLT Transformations.
+•	Utilized Team Foundation Server (TFS) for the purpose of version Control and source code maintenance needs. 
+•	Prepared various test cases to fix the bugs and ensures the application is error-free using VS Unit Testing."	Technical Lead
+"- Manage the team;
+- Define, maintain, oversee and enforce engineering processes;
+- Provide project leadership for key projects;
+- Train and mentor project leaders;
+- Take responsibility for release dates, milestones and budgets."	Manager
+"•	Responsible for Migration of EDMS from 6.5 SP3 to 7.1 
+•	Solution Design and Implementation of EDMS Migration with defined solution
+•	Liaison between technical team and customer PMO for smooth execution of project
+•	Identify risks and define strategy for mitigating risks during the project lifecycle.
+•	Support customer operations team for provision of infrastructure and support for execution of activities in-time
+•	Responsible for supporting team for technical issues and overall execution of activities
+•	Validation of deliveries to ensure quality.
+•	Support User Acceptance
+•	Scoping of Change Requests and overall project effort and estimates for scoping"	Architect
+"- Understand, define and analyse the needs and funtionalities of the
+software to be developped;
+- Dispatch the programming work to the available ressources;
+- Manage the project and the team;
+- Keep up with deadlines and quality;
+- Activily report to the IT manager."	Manager
+"Performed systems testing, functional testing, and regression testing with Motorola Expedience Java Applications running on Apache Tomcat servers with Oracle 9i/10g, Microsoft SQL Server 2000/2005/2008 and Postgres databases.
+
+Installed, upgraded, and maintained Oracle, MS SQL Server and Postgres databases running in lab environment.
+Configured and administered wired/wireless network consisting of servers, hosts, CPE modems, basestations, and VLAN switches.
+Maintained Expedience and Wimax networks on Linux Redhat, Fedora Core, CentOS, Windows Server 2003, and Windows Server 2008 operating system platforms.
+Performed manual testing and automated testing writing/executing bash shell scripts, Perl scripts, and Selenium scripts against Motorola Expedience Java Applications.
+Wrote and executed test plans for new features and maintained test cases using AP Test, Citrix.
+Verified a certain CPE type will become dysfunctional after performing an upgrade both saved money and time since thousands of these CPE types were currently being used."	Database Administrator
+"As a senior QA engineer you are responsible for
+whole testing projects. It includes tasks such as writing test plan,
+performing tests, writing reports"	Quality Assurance
+"- Develop software according to requirements;
+- Take part in gathering requirements;
+- Take part in system architecture development;
+- Participate in planning;
+- Complete work according to deadlines;
+- Take part in mentoring other developers professional skills."	Architect
+"- Plan and establish database backup and recovery procedures;
+- Process database startup and shutdown procedures;
+- Manage and monitor database security and access control;
+- Maintain database and table space allocation, and forecast future
+growth;
+- Install database new releases and upgrades;
+- Perform database fine tuning and optimize data access;
+- Perform database analysis and capacity planning;
+- Document database maintenance procedures;
+- Manage users database accesses."	Database Administrator
+"- Develop and design software systems for a financial company (C#,
+ASP.NET, Oracle, HTML5 and JS);
+- Analyze new software requirements;
+- Perform object-oriented analysis, design and testing;
+- Create reports from DB (select, procedure and view). Receivable
+includes: technical requirements documents, use cases and diagrams, class
+diagrams, activity diagrams, package diagram and project estimates."	Technical Lead
+"- Conceptualize and develop Flash-based games;
+- Contribute to the innovative development of Flash use and
+implementation;
+- Maintain familiarity with industry trends and anticipate/recommend
+design shifts to improve the company's service offerings;
+- Help train and grow Flash designers."	Architect
+"•	Worked as a lead designer to customized the liferay features (WCM, Doc & Media etc).
+•	POC to customized liferay behavior.
+•	SQL tuning for best performance.
+•	Prepared and presented concept of performance improvement to Client.
+•	Provided training to team members on Portal foundation  .
+•	Code review and bug fixing.
+•	Managed dependencies between multiple teams.
+•	Maintained application and solving day to day user queries.
+•	Interacted with the client on regular basis to solve the issues faced.
+•	Took understanding of the client environment as well in order to find out the best possible solution.
+•	Learned Seam framework which was used in the application and implemented the same to complete the application change in time.
+"	Technical Lead
+"The key elements of the role are full life cycle
+product development working in a technically strong team through
+requirements gathering, architecture, development and release. The
+candidate is required to work closely with the other technical members
+of the Lycos Mail team in Yerevan as well as in Paris on new and
+challenging projects."	Software Engineer
+"- Manage/design the architecture of the projects within the group 
+- Planning together with the team (estimate, dependencies etc) 
+- Software development 
+- Technical quality of the project 
+- Code review within the group 
+- Act as a mentor for the team"	Architect
+"Software design, implementation and co-management"	Software Engineer
+"- Designs, develops, implements, tests and writes documentation for
+software modules and systems produced by the company;
+- Provides technical support via e-mail and Internet to users of the
+software products;
+- Co-maintains the company's internal development environment."	Software Engineer
+"Design of multi-tier web based application. Design and end to end implementation of all the modules in robust and scalable manner.
+•	Infrastructure setup, deployment and performance tuning activities.
+•	Requirement gathering and analysis. Assistance in Project schedule generation and Updation."	Software Engineer
+"Manage the India development unit for a Financial Analytics solution. The solutions comprises of strategic features including Budget Manager, Strategic budgeting and Data Modeling.
+•	 Coordinates Product Release planning, Scope, Schedule, Resource & Risk Management.
+•	 Work with US counterparts to identify the modules that can be transitioned & executed by offshore.
+•	 Building a winning team for the product & the organization.
+•	 Responsible in guiding the team for preparing the analysis details and reviewing the existing application to identify the nice to have and must have functionalities in application.
+•	 MVVM, MVP and service oriented architecture for different project module using Silverlight, WPF and WCF technologies.
+•	 Process improvement – RCA, Quality metrics, productivity metrics, in-house tools/utilities development to reduce manual work & increase efficiency, focus on Application availability.
+Initiatives
+•	 Enhanced the profit opportunities by expanding the team size, rationalizing NA-India employee ratio & exploring new business horizons/strategies by performing research/POC.
+•	 Proposed & adopted UI QA automation for the product regression testing."	Manager
+"Specific tasks and key responsibilities include
+but are not limited to:
+- Design and fine-tuning of the physical data model for an application;
+- Creation of the physical databases for an application;
+- Troubleshooting and fine-tuning of databases performance in production
+to ensure maximum performance;
+- Development of integration, replication and backup/ restoration
+strategies;
+- Development of required stored procedures for the applications."	Database Administrator
+"Responsibilities include:
+- Design and development of scalable, data-intensive infrastructure
+- Architecture design, database schema design, software design and
+implementation
+- Add support for multiple image formats (e.g. PDF) and page layout
+description"	Software Engineer
+"•	Involved in the Gathering and analyzing business requirements and help business analyst to create Functional requirement document.
+•	Conducted workshops and interviews for business users to formulate work strategies. 
+•	Business case formulation and analyzing the impact on overall solution delivery to management.
+•	Reviewing and managing all the necessary documentation required for the project work.
+•	Project management using AGILE methodology and Involved in implementation of the complete solution like task allocation, team managing and tracking.
+•	Designing the technical architecture of complete system using latest technology stack.
+•	Involved in development of common complex functionality.
+•	Delivered the complete solution to client.
+•	Client SIT (System Integration Testing) and UAT (User Acceptance Test). 
+•	Involved in providing training the internal stake holders."	Architect
+"We expect a successful candidate to be able to 
+- design and develop software products,
+- create programs for heterogeneous environments (MS Windows, Unix),
+communicating by means of network protocols
+- author and maintain internal and end-user documentation."	Software Engineer
+"•	Manage the deliverables of offshore team (22 members) for design and development of new features of the product
+•	Involvement in Project Planning, Resource Management, Project Estimation and Scheduling
+•	Requirement Gathering, Analysis, Formulating and Reviewing Application specifications
+•	Design reviews, Code Reviews,  Test Plan Reviews
+•	Preparing Technical Specification Document, High Level Design Document, Detailed Design Document."	Manager
+"•	Operational Service Configuration.
+•	Implemented GIS functionalities in School Locator Application.
+•	Implemented Share Functionality in My Government Services Application.
+•	Upgraded Api in Public Notification and Citizen Service Request Applications.
+•	Responsible for UI development.
+•	Resolving service tickets for customers. 
+•	Managing change request and supporting during various testing and go live phase.
+•	Direct interaction with client for unplanned requirements and supports."	Software Engineer
+"- Work with customers to ensure that products meet requirements for
+reliability and quality.
+- Will ensure delivery of designs that meet or exceed customer
+requirements.
+- Ensure test reports, data and other applicable documentation are
+complete and in accordance with specifications and purchase order
+requirements.
+- Design and implement quality process control programs, bug reporting
+systems, procedures and techniques.
+- Define, integrate and continually improve the design assurance process
+by suggesting and implementing new strategies on IP design projects."	Quality Assurance
+"- User Centered Design: Demonstrate knowledge when performing
+user-centered design tasks independently and has applied best practices
+for moderately complex systems;
+- User Interface Design: Show expertise when applying human factors
+knowledge to design complex user interfaces across a variety of
+technology platforms;
+- Web Concepts: Demonstrate business and conceptual understanding of web
+applications and assess new technology, platforms and design criteria
+impacts;
+- Usability Testing: Direct usability testing and make recommendations
+to make a state-of-the-art, multi-platform systems;
+- User Interface Standards and Best Practices: Highest expertise
+applying industry user interface design standards and best practices to
+design usable, intuitive and highly complex software applications."	Architect
+"?	Preparing Test Cases, Traceability Matrix
+?	Interacting with cross applications for getting the data setup and having the claims available for our testing.
+?	Integrate and communicate with onsite team members for technical and business requirements
+?	Give suggestion to Business regarding Usability of the application which in result accepted as a change request.
+?	Hosting defect tracking and Issue discussion calls inviting Business folks as well.
+?	Imparted training within team on the functionality of the application"	Quality Assurance
+"- Design test cases;
+- Perform manual and automated testing;
+- Design and develop automated test scripts;
+- Perform GUI, functionality, performance, load, compatibility and
+usability tests; 
+- Identify, reproduce and report bugs;
+- Verify fixed defects and perform regression tests to ensure the
+quality of software releases."	Quality Assurance
+"- Develop databases using MySQL InnoDB tables;  
+- Develop Database Abstraction Layer using PHP    mysqli extension;
+- Read, understand and modify an existing code."	Architect
+"•	PM for technology upgradation project for US client LPS Inc. (www.lpsvcs.com).
+•	Dealt with client business team to collect requirements and developing proposed new architecture, construct applications proto type & database design by teaming up with client Enterprise Architect Team for rebuilding Core business applications to transform LPS operations, and supports growth areas to gain efficiencies to better serve clients."	Manager
+"•	Requirement analysis and helping out team members in estimating the enhancements.
+•	Code review of the enhancements.
+•	Helping out team members in resolving business incidents
+•	Regular interaction with clients current and future activities
+•	Demand & Capacity planning, Cost Review analysis and Forecasting
+•	Team management, task allocation, escalation handling, risk identification and mitigation
+•	Ensuring on-time delivery of development projects / enhancements
+"	Manager
+"The key elements of the role are full life cycle
+product development working in a technically strong team through
+requirements gathering, architecture, development and release. The
+candidate is required to work closely with the other technical members
+of the Lycos Communities teams."	Software Engineer
+"- Design, implement and support databases,
+- Implement business rules via stored procedures,
+- Define user interfaces and functional specifications, 
+- Responsible for database modeling, verifying accuracy of data,
+- Maintenance and support of databases,
+- Other duties as assigned."	Database Administrator
+"- Software development according to requirements;
+- Take part in gathering requirements;
+- Take part in system architecture development;
+- Participate in planning;
+- Complete work according to deadlines;
+- Take part in mentoring other developers professional skills."	Architect
+"?	Create Test Plan and Test Strategy for Memotech.
+?	Imparted Product Training to Sales Force, Vendors, Partners, team members and intermediate users.
+?	Interacting with Customers for their early feedback and resolution of issues
+?	Complete ownership of testing Admin tool for Memotech.
+?	Integration Testing with Oracle PPM, Oracle FM with Memotech and other industrial tools.
+?	Assessed continuous improvements for various work scenarios and suggest them to management for adopting them to improve overall productivity and efficient utilization of various resources
+?	Oversaw the Quality procedures related to the project and performed quality audits to ensure templates, procedures and methodologies are adhered to International standards.
+?	Update , maintenance of automation framework for Memotech 5.x
+?	Developed and implemented various testing strategies for oracle EBS systems.
+?	Database Migration testing using Robot Framework.
+?	Logging Defect and Software version maintenance through JIRA
+?	Involved in build deployment / debugging activities on Linux servers using Unix commands.
+?	Performed DB migration and Synchronization test from Memotech 5.x to Memotech 6.0 "	Quality Assurance
+"- Design and document custom software solutions which include database
+models, software architecture, process flow, and web navigation; 
+- Produce and maintain accurate documentation and code comments on all
+aspects of software architecture including functionality, logical view
+and processes, hardware and operating system environment, interface with
+other systems, etc.; 
+- Work with project leader to establish task schedule, subsystem
+definition, task milestones, technical goals, and estimated effort;
+- Mentor the development teams through hands-on assistance as well as
+formal and informal training;
+- Review and evaluate the architecture documentation, design and
+implementation of the software. Conduct and participate in peer code and
+documentation reviews."	Architect
+"- Deploy, develop and maintain the websites for management and exchange
+of product informations
+- Programming in HTML and using PHP scripts/programs with MySQL 	
+- Maintaining security of the sites, developing and implementing an
+access control system enforcing different levels of access."	Software Engineer
+"Will be responsible for installation and
+maintenance of IT equipment, network systems, and computers in the
+projects offices, and for the design and maintenance of databases
+relating to business contacts, monitoring and evaluation of project
+activities, and other related duties."	Database Administrator
+"Perform coding migration, database change management & data management through the various stages of the development life cycle
+Assist System Development Manager in developing queries, executing scripts, patches, reports, and monitoring
+Assist System Development Manager in development, setting up and managing automated backups
+Assist System Development Manager in Microsoft SQL Server management and database maintenance
+Assist System Development Manager in performance tuning and database optimization
+Identifying performance improvements to database procedures and data structures and working with Development teams to deliver code changes
+Provide accurate effort estimates of the work involved even when others will be performing the actual programming work"	Database Administrator
+"- Design test cases;
+- Perform manual and automated testing;
+- Design and develop automated test scripts;
+- Perform GUI, functionality, performance, load, compatibility and
+usability tests of web applications; 
+- Identify, reproduce and report bugs;
+- Verify fixed defects and perform regression tests to ensure the
+quality of software releases."	Quality Assurance
+"Database development:
+- Writing stored procedures and triggers;
+- Managing and tuning the Database performance."	Database Administrator
+"•	Performed the requirement analysis and estimation of orchestrated services for WPS. Designed and implemented common base utilities and a process delegator framework for invocation of WPS processes.
+•	Involved in resource planning and task allocation process to set up an activity based project plan.
+•	Assisted the application architect and the principal architect of the project in evolving the right architecture for the program."	Architect
+"- Analyze designs and develop architectures for software systems;
+- Deliver optimized application architecture by translating business
+requirements into technical attributes;
+- Understand business and technical goals and constraints;
+- Articulate solution vision;
+- Prepare alternative approaches and specify components and interfaces."	Architect
