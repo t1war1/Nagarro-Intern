@@ -114,6 +114,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-./output_dir
-./BERT_BASE_DIR
