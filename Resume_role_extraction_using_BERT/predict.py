@@ -1,12 +1,19 @@
 import processor as pc
 import tokenization
 import os
+import re
+import numpy as np
 tf=pc.tf
 flags=tf.flags
 
 FLAGS = flags.FLAGS
 
-def main(_):
+def find_role(text):
+    flags.mark_flag_as_required("task_name")
+    flags.mark_flag_as_required("vocab_file")
+    flags.mark_flag_as_required("bert_config_file")
+    flags.mark_flag_as_required("output_dir")
+
     tf.logging.set_verbosity(tf.logging.INFO)
     processors = {
         "mrpc": pc.MrpcProcessor
@@ -14,7 +21,7 @@ def main(_):
     tokenization.validate_case_matches_checkpoint(FLAGS.do_lower_case, FLAGS.init_checkpoint)
 
     if not FLAGS.do_predict:
-        raise ValueError(""" 'do_train' must be True for training.""")
+        raise ValueError(""" 'do_predict' must be True for predictions.""")
 
     bert_config = pc.modeling.BertConfig.from_json_file(FLAGS.bert_config_file)
     if FLAGS.max_seq_length > bert_config.max_position_embeddings:
@@ -57,7 +64,7 @@ def main(_):
     num_train_steps = None
     num_warmup_steps = None
 
-    train_examples = processor.get_train_examples(FLAGS.data_dir)
+    train_examples = processor.get_train_examples(FLAGS.data_dir, "train.tsv")
     num_train_steps = int(
         len(train_examples) / FLAGS.train_batch_size * FLAGS.num_train_epochs)
     num_warmup_steps = int(num_train_steps * FLAGS.warmup_proportion)
@@ -82,18 +89,19 @@ def main(_):
         eval_batch_size=FLAGS.eval_batch_size,
         predict_batch_size=FLAGS.predict_batch_size)
     predict_examples = []
-    if FLAGS.data_dir == "None":
-        global predict_examples
-        predict_examples = []
+    if not text.endswith("tsv"):
+        print("****************************** BLOCK 1 ***************************************************")
         guid = "%s-%s" % ("test", 0)
         text_a = tokenization.convert_to_unicode(text)
-        label = tokenization.convert_to_unicode("x")
+        label = tokenization.convert_to_unicode("Manager")
         predict_examples.append(
             pc.InputExample(guid=guid, text_a=text_a, text_b=None, label=label)
         )
     else:
-        global predict_examples
-        predict_examples = processor.get_test_examples(FLAGS.data_dir)
+        print("****************************** BLOCK 2 ***************************************************")
+        ex = processor.get_test_examples(FLAGS.data_dir, text)
+        for tmp in ex:
+            predict_examples.append(tmp)
 
     num_actual_predict_examples = len(predict_examples)
 
@@ -107,8 +115,8 @@ def main(_):
 
     predict_file = os.path.join(FLAGS.output_dir, "predict.tf_record")
     pc.file_based_convert_examples_to_features(predict_examples, label_list,
-                                            FLAGS.max_seq_length, tokenizer,
-                                            predict_file)
+                                               FLAGS.max_seq_length, tokenizer,
+                                               predict_file)
     # print("******************************************************here*************************************************")
     tf.logging.info("***** Running prediction*****")
     tf.logging.info("  Num examples = %d (%d actual, %d padding)",
@@ -126,13 +134,17 @@ def main(_):
     result = estimator.predict(input_fn=predict_input_fn)
 
     output_predict_file = os.path.join(FLAGS.output_dir, "test_results.tsv")
+
     with tf.gfile.GFile(output_predict_file, "w") as writer:
         num_written_lines = 0
         opline = "\t".join(str(label) for label in label_list)
         writer.write("Description\t" + opline + "\n")
         tf.logging.info("***** Predict results *****")
         for (i, prediction) in enumerate(result):
-            probabilities = prediction["probabilities"]
+            if not text.endswith("tsv"):
+                probabilities = prediction["probabilities"]
+                ind=np.where(probabilities== np.amax(probabilities))
+                print(label_list[ind[0][0]])
             if i >= num_actual_predict_examples:
                 break
             output_line = "\t".join(
@@ -141,12 +153,15 @@ def main(_):
             # output_line=
             writer.write(predict_examples[i].text_a + "\t" + output_line)
             num_written_lines += 1
+
     assert num_written_lines == num_actual_predict_examples
 
 
-if __name__=="__main__":
-    flags.mark_flag_as_required("task_name")
-    flags.mark_flag_as_required("vocab_file")
-    flags.mark_flag_as_required("bert_config_file")
-    flags.mark_flag_as_required("output_dir")
+
+
+def main(_):
+    find_role("test.tsv")
+
+
+if __name__ == "__main__":
     tf.app.run()
